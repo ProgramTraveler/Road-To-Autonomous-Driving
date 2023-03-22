@@ -50,8 +50,10 @@ int main(int argc, char** argv) {
     AERROR << "module start error.";
     return -1;
   }
-
+  
+  // 等待 cyber 关闭
   apollo::cyber::WaitForShutdown();
+  // 卸载模块
   controller.Clear();
   AINFO << "exit mainboard.";
 
@@ -68,6 +70,7 @@ int main(int argc, char** argv) {
 
 ---
 
+* `binary_name_ = std::string(basename(argv[0]));` -> `basename()`从给定路径名中删除所有路径 直到并包括最后一个路径分隔符 (如果有) 例如 有一个路径名 "/usr/local/r/Pro.R" 那么`basename`函数将返回文件名"Pro.R"
 * `GlobalData::Instance()->SetProcessGroup(process_group_);` -> 这里调用了`GlobalData::Instance()`静态方法 它返回一个指向`GlobalData`类的单例对象的指针 然后调用该对象的 `SetProcessGroup`方法 并将变量`process_group_`传递给它
 
 ```cpp
@@ -127,32 +130,32 @@ void ModuleArgument::ParseArgument(const int argc, char* const argv[]) {
 * `std::shared_ptr<ComponentBase> base = class_loader_manager_.CreateClassObj<ComponentBase>(class_name);` -> 调用 `class_loader_manager_`对象的`CreateClassObj`方法 它用创建指定类名称的对象 `class_name`是一个字符串 表示要创建的类的名称 该方法返回一个指向新创建对象的智能指针 然后赋值给`base`的变量 它是一个类型为`std::shared_ptr<ComponentBase>`的智能指针
 * `std::shared_ptr<ComponentBase>` -> 是一个模板类 它表示一个指向`ComponentBase`类型对象的智能指针 智能指针是一个自动管理其所指向的对象生命周期的指针 当最后一个`std::shared_ptr`对象不再指向该对象时 该对象将被自动删除 这样我们不需要手动管理内存 可以避免内存泄漏和悬挂指针等问题
 * `std::move(base)` -> 是一个函数 用于指示对象可以被"移动" 即允许从一个对象有效地转移资源到另一个对象 它产生一个标识其参数`t`的`xvalue`表达式
-* 举一个例子
+	举一个例子
 
-```cpp
-#include <iostream>
-#include <utility>
-#include <vector>
-
-int main()
-{
-    std::vector<std::string> v1 = {"a", "b", "c"};
-    std::vector<std::string> v2 = {"x", "y", "z"};
-
-    std::cout << "v1: ";
-    for (const auto& s : v1) std::cout << s << ' ';
-    std::cout << "\nv2: ";
-    for (const auto& s : v2) std::cout << s << ' ';
-    std::cout << '\n';
-
-    v2 = std::move(v1); // 移动赋值
-
-    std::cout << "\nv1: ";
-    for (const auto& s : v1) std::cout << s << ' ';
-    std::cout << "\nv2: ";
-    for (const auto& s : v2) std::cout << s << ' ';
-}
-```
+	```cpp
+	#include <iostream>
+	#include <utility>
+	#include <vector>
+	
+	int main()
+	{
+    	std::vector<std::string> v1 = {"a", "b", "c"};
+    	std::vector<std::string> v2 = {"x", "y", "z"};
+	
+    	std::cout << "v1: ";
+    	for (const auto& s : v1) std::cout << s << ' ';
+    	std::cout << "\nv2: ";
+    	for (const auto& s : v2) std::cout << s << ' ';
+    	std::cout << '\n';
+	
+    	v2 = std::move(v1); // 移动赋值
+	
+    	std::cout << "\nv1: ";
+    	for (const auto& s : v1) std::cout << s << ' ';
+    	std::cout << "\nv2: ";
+    	for (const auto& s : v2) std::cout << s << ' ';
+	}
+	```
 
 * 输出的结果为 
 
