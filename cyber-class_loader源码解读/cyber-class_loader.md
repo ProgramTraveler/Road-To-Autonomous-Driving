@@ -21,7 +21,7 @@
   	module_library : "/apollo/bazel-bin/modules/planning/libplanning_component.so"
 ```
 
-	也就是说`apollo`中的模块都会通过类加载器以动态库的方式加载 然后实例化 之后在调用`Initialize`方法初始化
+* 也就是说`apollo`中的模块都会通过类加载器以动态库的方式加载 然后实例化 之后在调用`Initialize`方法初始化
 
 ---
 
@@ -56,7 +56,7 @@ class ClassLoader {
   bool IsClassValid(const std::string& class_name);
 
  private:
- // 当类删除
+  // 当类删除
   template <typename Base>
   void OnClassObjDeleter(Base* obj);
 
@@ -133,7 +133,7 @@ void ClassLoader::OnClassObjDeleter(Base* obj) {
 	std::map<std::string, ClassLoader*> libpath_loader_map_;
 ```
 
-	其中`key`为`library_path` 而`value`为`ClassLoader`
+* 其中`key`为`library_path` 而`value`为`ClassLoader`
 
 * 也就是说`ClassLoaderManager`对`ClassLoader`进行保存和管理
 
