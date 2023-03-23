@@ -1,11 +1,11 @@
 # cyber/mianboard 目录下的函数
 
 ## 主要函数
-├── mainboard.cc           // 主函数
-├── module_argument.cc     // 模块输入参数
-├── module_argument.h
-├── module_controller.cc   // 模块加载，卸载
-└── module_controller.h
+├── mainboard.cc           // 主函数  
+├── module_argument.cc     // 模块输入参数  
+├── module_argument.h  
+├── module_controller.cc   // 模块加载，卸载  
+└── module_controller.h  
 
 ---
 
@@ -157,7 +157,7 @@ void ModuleArgument::ParseArgument(const int argc, char* const argv[]) {
 	}
 	```
 
-* 输出的结果为 
+* 输出的结果为
 
 ```cpp
 v1: a b c 
