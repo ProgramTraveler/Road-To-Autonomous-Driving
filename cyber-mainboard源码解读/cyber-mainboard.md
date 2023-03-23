@@ -1,6 +1,6 @@
 # cyber/mianboard 目录下的函数
 
-## 主要函数
+## 主要函数结构
 ├── mainboard.cc           // 主函数  
 ├── module_argument.cc     // 模块输入参数  
 ├── module_argument.h  
@@ -13,7 +13,7 @@
 
 * `cyber main` 函数中先解析 `dag` 参数 然后根据解析的参数 通过类加载器动态的加载对应的模块 然后调用 `Initialize` 方法初始化模块
 
-### mainboard.cc
+### mainboard
 
 * DAG 文件是指有向无环图文件 (Directed Acyclic Graph)
 
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 
 ---
 
-### module_argument.cc
+### module_argument
 
 * 这里是其中的部分函数
 * 解析参数 主要是解析加载 `DAG` 文件时候带的参数
@@ -104,7 +104,7 @@ void ModuleArgument::ParseArgument(const int argc, char* const argv[]) {
 
 ---
 
-### module_controller.cc
+### module_controller
 
 * 这里是其中的部分函数 LoadModule 函数
 * 实现`cyber`模块的加载
@@ -126,13 +126,14 @@ void ModuleArgument::ParseArgument(const int argc, char* const argv[]) {
 
 ---
 
+* `class_loader_manager_.LoadLibrary(load_path);` -> `class_loader_manager_`加载模块 加载好对应的类之后再创建对应的对象 并且初始化对象(调用对象的`Initialize()`方法 也就是说所有的`cyber`模块都是通过`Initialize()`方法启动的)
 * `const std::string& class_name = component.class_name();` -> 调用 `component`对象的`class_name`方法 它返回是一个字符串 表示组件的类名称
 * `std::shared_ptr<ComponentBase> base = class_loader_manager_.CreateClassObj<ComponentBase>(class_name);` -> 调用 `class_loader_manager_`对象的`CreateClassObj`方法 它用创建指定类名称的对象 `class_name`是一个字符串 表示要创建的类的名称 该方法返回一个指向新创建对象的智能指针 然后赋值给`base`的变量 它是一个类型为`std::shared_ptr<ComponentBase>`的智能指针
 * `std::shared_ptr<ComponentBase>` -> 是一个模板类 它表示一个指向`ComponentBase`类型对象的智能指针 智能指针是一个自动管理其所指向的对象生命周期的指针 当最后一个`std::shared_ptr`对象不再指向该对象时 该对象将被自动删除 这样我们不需要手动管理内存 可以避免内存泄漏和悬挂指针等问题
 * `std::move(base)` -> 是一个函数 用于指示对象可以被"移动" 即允许从一个对象有效地转移资源到另一个对象 它产生一个标识其参数`t`的`xvalue`表达式
 	举一个例子
 
-	```cpp
+```cpp
 	#include <iostream>
 	#include <utility>
 	#include <vector>
@@ -155,16 +156,16 @@ void ModuleArgument::ParseArgument(const int argc, char* const argv[]) {
     	std::cout << "\nv2: ";
     	for (const auto& s : v2) std::cout << s << ' ';
 	}
-	```
+```
 
-* 输出的结果为
+	* 输出的结果为
 
 ```cpp
-v1: a b c 
-v2: x y z 
-
-v1: 
-v2: a b c 
+	v1: a b c 
+	v2: x y z 
+	
+	v1: 
+	v2: a b c 
 ```
 
 ---
