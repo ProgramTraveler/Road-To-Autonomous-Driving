@@ -21,6 +21,7 @@
 	[apollo介绍之cyber框架(十)](https://zhuanlan.zhihu.com/p/91322837)  
 	[apollo介绍之cyber框架(十一)](https://zhuanlan.zhihu.com/p/115046708)  
 	[apollo介绍之cyber定时器(十二)](https://zhuanlan.zhihu.com/p/115990699)  
+	[apollo介绍之cyber Component(十三)](https://zhuanlan.zhihu.com/p/116782645)
 	
 	[cyber record包解析工具](https://zhuanlan.zhihu.com/p/499516617)
 	
