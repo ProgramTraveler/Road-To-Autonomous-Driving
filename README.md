@@ -20,7 +20,7 @@
 
 ### cyber
 
-* 准备先看一下 apollo 中的 cyber 源码和相关知识
+* 准备先看一下 apollo 中的 cyber 源码和相关知识  
 	[apollo介绍之cyber设计(五)](https://zhuanlan.zhihu.com/p/62259081)  
 	[apollo介绍之cyber框架(十)](https://zhuanlan.zhihu.com/p/91322837)  
 	[apollo介绍之cyber框架(十一)](https://zhuanlan.zhihu.com/p/115046708)  
@@ -43,6 +43,5 @@
 
 ### planning
 
-* 后面可能是走规划的路线 所以先看一下规划相关的东西
+* 后面可能是走规划的路线 所以先看一下规划相关的东西  
 	[apollo介绍之planning模块(四)](https://zhuanlan.zhihu.com/p/61982682)
-	
