@@ -1,11 +1,21 @@
 # 初入 Apollo 
 
 ## apollo 的相关指南
-[如何入手学习百度Apollo无人驾驶](https://www.zhihu.com/question/358869380)
+[如何入手学习百度Apollo无人驾驶](https://www.zhihu.com/question/358869380)  
+[Apollo入门与探索](https://apollo.baidu.com/community/column/2)  
+[cyber入门与探索](https://apollo.baidu.com/community/column/3)  
+
+---
+
 ## 源码
 [Apollo源码](https://github.com/ApolloAuto/apollo)
+
+---
+
 ## 开发者中心
 [apollol开发者中心](https://developer.apollo.auto/devcenter/devcenter_cn.html)
+
+---
 
 ## 自动驾驶学习资料合集
 [学习资料合集](https://zhuanlan.zhihu.com/p/58422485)
