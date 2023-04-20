@@ -1,0 +1,49 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 
+
+        上节案例问题
+            1. 代码复用 === xacro 宏(也就是函数)
+            2. 参数设计 === xacro 变量
+
+     -->
+    <!-- 属性封装 -->
+    <xacro:property name="wheel_radius" value="0.0325" />
+    <xacro:property name="wheel_length" value="0.0015" />
+    <xacro:property name="PI" value="3.1415927" />
+    <xacro:property name="base_link_length" value="0.08" />
+    <xacro:property name="lidi_space" value="0.015" />
+
+    <!-- 宏 -->
+    <xacro:macro name="wheel_func" params="wheel_name flag" >
+        <link name="${wheel_name}_wheel">
+            <visual>
+                <geometry>
+                    <cylinder radius="${wheel_radius}" length="${wheel_length}" />
+                </geometry>
+
+                <origin xyz="0 0 0" rpy="${PI / 2} 0 0" />
+
+                <material name="wheel_color">
+                    <color rgba="0 0 0 0.3" />
+                </material>
+            </visual>
+        </link>
+
+        <!-- 3-2.joint -->
+        <joint name="${wheel_name}2link" type="continuous">
+            <parent link="base_link"  />
+            <child link="${wheel_name}_wheel" />
+            <!-- 
+                x 无偏移
+                y 车体半径
+                z z= 车体高度 / 2 + 离地间距 - 车轮半径
+
+            -->
+            <origin xyz="0 ${0.1 * flag} ${(base_link_length / 2 + lidi_space - wheel_radius) * -1}" rpy="0 0 0" />
+            <axis xyz="0 1 0" />
+        </joint>
+
+    </xacro:macro>
+    <xacro:wheel_func wheel_name="left" flag="1" />
+    <xacro:wheel_func wheel_name="right" flag="-1" />
+</robot>

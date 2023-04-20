@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/help/ros_demo/Custom_header_file_ws/install/setup.sh

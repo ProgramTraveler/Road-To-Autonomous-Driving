@@ -1,0 +1,21 @@
+<launch>
+    <!-- 在参数服务器载入 urdf 文件 -->
+    <param name="robot_description" textfile="$(find urdf1_rviz)/urdf/urdf/demo4_base_footprint.urdf" />
+
+    <!-- 启动 rviz -->
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find urdf1_rviz)/config/show_mycar.rviz"/>
+
+    <!-- 
+        只有上述两条语句
+
+            1. 摄像头显示位置与颜色异常
+            2. 缺少 camera 到 base_link 的坐标变换
+
+            原因 rviz 中显示 URDF 时 必须发布不同部件之间的坐标系关系
+            解决 ROS 中提供了关于机器人模型显示的坐标发布相关节点(两个)
+     -->
+     <!-- 关节状态发布节点 -->
+    <node pkg="joint_state_publisher" type="joint_state_publisher" name="joint_state_publisher" />
+    <!-- 机器人状态发布节点 -->
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" />
+</launch>

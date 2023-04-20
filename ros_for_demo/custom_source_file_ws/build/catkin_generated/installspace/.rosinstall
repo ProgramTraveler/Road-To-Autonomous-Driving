@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/help/ros_demo/custom_source_file_ws/install/setup.sh

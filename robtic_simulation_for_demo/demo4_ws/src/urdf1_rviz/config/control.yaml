@@ -1,0 +1,22 @@
+# 该文件是控制器配置,一个机器人模型可能有多个控制器，比如: 底盘、机械臂、夹持器(机械手)....
+# 因此，根 name 是 controller
+controllers: {
+   # 单控制器设置
+   base_controller: {
+          #类型: 差速控制器
+       type: diff_controller,
+       #参考坐标
+       base_frame_id: base_footprint, 
+       #两个轮子之间的间距
+       base_width: 0.2,
+       #控制频率
+       ticks_meter: 2000, 
+       #PID控制参数，使机器人车轮快速达到预期速度
+       Kp: 12, 
+       Kd: 12, 
+       Ki: 0, 
+       Ko: 50, 
+       #加速限制
+       accel_limit: 1.0 
+    }
+}

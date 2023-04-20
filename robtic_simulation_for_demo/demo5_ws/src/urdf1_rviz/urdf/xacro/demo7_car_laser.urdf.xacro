@@ -1,0 +1,61 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 雷达部件 -->
+    <!-- 参数 -->
+    <!-- 
+        支架
+            支架尺寸 半径 高度
+            关节偏移量 x y z
+        
+        雷达
+            雷达尺寸 半径 高度
+            关节偏移量 x y z
+     -->
+    <xacro:property name="support_radius" value="0.01" />
+    <xacro:property name="support_length" value="0.15" />
+    <xacro:property name="laser_radius" value="0.03" />
+    <xacro:property name="laser_length" value="0.05" />
+
+    <xacro:property name="joint_support_x" value="0" />
+    <xacro:property name="joint_support_y" value="0" />
+    <xacro:property name="joint_support_z" value="${base_length / 2 + support_length / 2}" />
+
+    <xacro:property name="joint_laser_x" value="0" />
+    <xacro:property name="joint_laser_y" value="0" />
+    <xacro:property name="joint_laser_z" value="${support_length / 2 + laser_length / 2}" />
+
+    <!-- 支架 -->
+    <link name="support">
+        <visual>
+            <geometry>
+                <cylinder radius="${support_radius}" length="${support_length}" />
+            </geometry>
+            <material name="yellow">
+                <color rgba="0.8 0.5 0 0.5" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="support_to_base" type="fixed">
+        <parent link="base_link" />
+        <child link="support" />
+        <origin xyz="${joint_support_x} ${joint_support_y} ${joint_support_z}" rpy="0 0 0" />
+    </joint>
+    <!-- 雷达 -->
+    <link name="laser">
+        <visual>
+            <geometry>
+                <cylinder radius="${laser_radius}" length="${laser_length}" />
+            </geometry>
+            <material name="black">
+                <color rgba="0 0 0 0.5" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="laser_to_support" type="fixed">
+        <parent link="support" />
+        <child link="laser" />
+        <origin xyz="${joint_laser_x} ${joint_laser_y} ${joint_laser_z}" rpy="0 0 0" />
+    </joint>
+
+</robot>

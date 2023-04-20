@@ -1,0 +1,2 @@
+urdf1_rviz:urdf2_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/help/robotic_simulation/demo5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/robotic_simulation/demo5_ws/install -G Unix Makefiles

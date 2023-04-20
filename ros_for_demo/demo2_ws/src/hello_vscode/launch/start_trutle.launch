@@ -1,0 +1,7 @@
+<launch>
+    <!--添加被执行的节点-->
+    <!--乌龟的GUI-->
+    <node pkg="hello_vscode" type="hello_vscode_c" name="hello" output="screen" />
+    <node pkg="turtlesim" type="turtlesim_node" name="t1"/>
+    <node pkg="turtlesim" type="turtle_teleop_key" name="key1" />
+</launch>

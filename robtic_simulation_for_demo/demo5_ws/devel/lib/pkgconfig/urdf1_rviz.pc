@@ -1,0 +1,8 @@
+prefix=/home/help/robotic_simulation/demo5_ws/devel
+
+Name: urdf1_rviz
+Description: Description of urdf1_rviz
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

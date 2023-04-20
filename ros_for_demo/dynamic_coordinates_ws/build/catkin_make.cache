@@ -1,0 +1,2 @@
+tf1_dynamic
+-DCATKIN_DEVEL_PREFIX=/home/help/ros_demo/dynamic_coordinates_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/ros_demo/dynamic_coordinates_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 包含惯性矩阵文件 -->
+    <xacro:include filename="head.xacro" />
+    <!-- 包含底盘 摄像头与雷达的 xacro 文件 -->
+    <xacro:include filename="demo5_car_base.urdf.xacro" />
+    <xacro:include filename="demo6_car_camera.urdf.xacro" />
+    <xacro:include filename="demo7_car_laser.urdf.xacro" />
+</robot>

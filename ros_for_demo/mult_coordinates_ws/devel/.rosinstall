@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/help/ros_demo/mult_coordinates_ws/devel/setup.sh

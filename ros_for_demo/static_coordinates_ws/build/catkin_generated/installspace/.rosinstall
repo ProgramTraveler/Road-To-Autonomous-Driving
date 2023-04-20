@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/help/ros_demo/static_coordinates_ws/install/setup.sh

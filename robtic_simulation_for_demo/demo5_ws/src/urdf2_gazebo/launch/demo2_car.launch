@@ -1,0 +1,8 @@
+<launch>
+    <!-- 需要在参数服务器中载入 urdf -->
+    <param name="robot_description" command="$(find xacro)/xacro $(find urdf2_gazebo)/urdf/car.urdf.xacro" />
+    <!-- 启动 Gazebo 仿真环境 -->
+    <include file="$(find gazebo_ros)/launch/empty_world.launch" />
+    <!-- 添加机器人模型 -->
+    <node pkg="gazebo_ros" type="spawn_model" name="model" args="-urdf -model car -param robot_description"  />
+</launch>

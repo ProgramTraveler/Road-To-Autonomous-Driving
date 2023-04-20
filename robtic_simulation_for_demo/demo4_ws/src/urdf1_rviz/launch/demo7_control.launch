@@ -1,0 +1,18 @@
+<launch>
+    <!-- 将 urdf 文件内容设置进参数服务器 -->
+    <!-- <param name="robot_description" textfile="$(find urdf1_rviz)/urdf/xacro/demo5_car_base.urdf" /> -->
+    <param name="robot_description" command="$(find xacro)/xacro $(find urdf1_rviz)/urdf/xacro/car.urdf.xacro" />
+
+    <!-- 启动 rivz -->
+    <node pkg="rviz" type="rviz" name="rviz_test" args="-d $(find urdf1_rviz)/config/show_mycar.rviz" />
+
+    <!-- 启动机器人状态和关节状态发布节点 -->
+    <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher" />
+    <node pkg="joint_state_publisher" type="joint_state_publisher" name="joint_state_publisher" />
+
+    <!-- 集成 arbtix 运动控制节点 并且加载参数 -->
+    <node pkg="arbotix_python" type="arbotix_driver" name="driver" output="screen">
+        <rosparam command="load" file="$(find urdf1_rviz)/config/control.yaml" />
+        <param name="sim" value="true" />
+    </node>
+</launch>

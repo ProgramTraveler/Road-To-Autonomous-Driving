@@ -1,0 +1,2 @@
+tf1_static
+-DCATKIN_DEVEL_PREFIX=/home/help/ros_demo/static_coordinates_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/ros_demo/static_coordinates_ws/install -G Unix Makefiles

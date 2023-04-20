@@ -1,0 +1,2 @@
+plumbing_head_src
+-DCATKIN_DEVEL_PREFIX=/home/help/ros_demo/custom_source_file_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/ros_demo/custom_source_file_ws/install -G Unix Makefiles

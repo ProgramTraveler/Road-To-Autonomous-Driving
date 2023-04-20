@@ -1,0 +1,8 @@
+prefix=/home/help/ros_demo/mult_coordinates_ws/install
+
+Name: tf1_tfs
+Description: Description of tf1_tfs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

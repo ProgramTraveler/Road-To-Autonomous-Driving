@@ -1,0 +1,8 @@
+prefix=/home/help/ros_demo/Custom_header_file_ws/install
+
+Name: plumbing_head
+Description: Description of plumbing_head
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/help/demo2_ws/devel
+
+Name: hello_vscode
+Description: Description of hello_vscode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

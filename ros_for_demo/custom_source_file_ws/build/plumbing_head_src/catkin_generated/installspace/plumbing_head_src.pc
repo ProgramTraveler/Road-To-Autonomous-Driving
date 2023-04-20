@@ -1,0 +1,8 @@
+prefix=/home/help/ros_demo/custom_source_file_ws/install
+
+Name: plumbing_head_src
+Description: Description of plumbing_head_src
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

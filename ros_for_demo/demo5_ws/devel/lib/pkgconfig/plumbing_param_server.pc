@@ -1,0 +1,8 @@
+prefix=/home/help/ros_demo/demo5_ws/devel
+
+Name: plumbing_param_server
+Description: Description of plumbing_param_server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

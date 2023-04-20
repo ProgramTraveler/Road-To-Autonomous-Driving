@@ -1,0 +1,144 @@
+<robot name="mycar">
+    <!-- 设置 base_footprint  -->
+    <link name="base_footprint">
+        <visual>
+            <geometry>
+                <sphere radius="0.001" />
+            </geometry>
+        </visual>
+    </link>
+
+    <!-- 添加底盘 -->
+    <!-- 
+        参数
+            形状:圆柱 
+            半径:10     cm 
+            高度:8      cm 
+            离地:1.5    cm
+
+    -->
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <cylinder radius="0.1" length="0.08" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="baselink_color">
+                <color rgba="0.8 0.3 0.1 0.5" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="base_link_to_base_footprint" type="fixed">
+        <parent link="base_footprint" />
+        <child link="base_link"/>
+        <origin xyz="0 0 0.055" />
+    </joint>
+
+    <!-- 添加驱动轮 -->
+    <!--
+        驱动轮是侧翻的圆柱
+        参数
+            半径: 3.25 cm
+            宽度: 1.5  cm
+            颜色: 黑色
+        关节设置:
+            x = 0
+            y = 底盘的半径 + 轮胎宽度 / 2
+            z = 离地间距 + 底盘长度 / 2 - 轮胎半径 = 1.5 + 4 - 3.25 = 2.25(cm)
+            axis = 0 1 0
+    -->
+    <link name="left_wheel">
+        <visual>
+            <geometry>
+                <cylinder radius="0.0325" length="0.015" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="1.5705 0 0" />
+            <material name="black">
+                <color rgba="0.0 0.0 0.0 1.0" />
+            </material>
+        </visual>
+
+    </link>
+
+    <joint name="left_wheel2base_link" type="continuous">
+        <parent link="base_link" />
+        <child link="left_wheel" />
+        <origin xyz="0 0.1 -0.0225" />
+        <axis xyz="0 1 0" />
+    </joint>
+
+
+    <link name="right_wheel">
+        <visual>
+            <geometry>
+                <cylinder radius="0.0325" length="0.015" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="1.5705 0 0" />
+            <material name="black">
+                <color rgba="0.0 0.0 0.0 1.0" />
+            </material>
+        </visual>
+
+    </link>
+
+    <joint name="right_wheel2base_link" type="continuous">
+        <parent link="base_link" />
+        <child link="right_wheel" />
+        <origin xyz="0 -0.1 -0.0225" />
+        <axis xyz="0 1 0" />
+    </joint>
+
+    <!-- 添加万向轮(支撑轮) -->
+    <!--
+        参数
+            形状: 球体
+            半径: 0.75 cm
+            颜色: 黑色
+
+        关节设置:
+            x = 自定义(底盘半径 - 万向轮半径) = 0.1 - 0.0075 = 0.0925(cm)
+            y = 0
+            z = 底盘长度 / 2 + 离地间距 / 2 = 0.08 / 2 + 0.015 / 2 = 0.0475 
+            axis= 1 1 1
+
+    -->
+    <link name="front_wheel">
+        <visual>
+            <geometry>
+                <sphere radius="0.0075" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="black">
+                <color rgba="0.0 0.0 0.0 1.0" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="front_wheel2base_link" type="continuous">
+        <parent link="base_link" />
+        <child link="front_wheel" />
+        <origin xyz="0.0925 0 -0.0475" />
+        <axis xyz="1 1 1" />
+    </joint>
+
+    <link name="back_wheel">
+        <visual>
+            <geometry>
+                <sphere radius="0.0075" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="black">
+                <color rgba="0.0 0.0 0.0 1.0" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="back_wheel2base_link" type="continuous">
+        <parent link="base_link" />
+        <child link="back_wheel" />
+        <origin xyz="-0.0925 0 -0.0475" />
+        <axis xyz="1 1 1" />
+    </joint>
+
+</robot>

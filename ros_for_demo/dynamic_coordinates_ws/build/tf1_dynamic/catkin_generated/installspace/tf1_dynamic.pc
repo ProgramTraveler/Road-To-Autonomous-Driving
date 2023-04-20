@@ -1,0 +1,8 @@
+prefix=/home/help/ros_demo/dynamic_coordinates_ws/install
+
+Name: tf1_dynamic
+Description: Description of tf1_dynamic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

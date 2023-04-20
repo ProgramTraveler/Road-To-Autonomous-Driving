@@ -1,0 +1,5 @@
+# 自定义服务消息的载体
+int32 num1
+int32 num2
+---
+int32 sum

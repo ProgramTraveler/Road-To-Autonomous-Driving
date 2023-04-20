@@ -1,0 +1,8 @@
+prefix=/home/help/robotic_simulation/demo4_ws/devel
+
+Name: urdf2_gazebo
+Description: Description of urdf2_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,34 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 摄像头部件 -->
+    <!-- 参数 -->
+    <!-- 
+        参数
+            连杆属性 厚度 宽度 高度
+            关节属性 x y z
+     -->
+    <xacro:property name="camera_length" value="0.02" /> <!-- 厚度 x -->
+    <xacro:property name="camera_width" value="0.05" /> <!-- 宽度 y -->
+    <xacro:property name="camera_height" value="0.05" /> <!-- 高度 z -->
+    <xacro:property name="joint_camera_x" value="0.08" />
+    <xacro:property name="joint_camera_y" value="0" />
+    <xacro:property name="joint_camera_z" value="${base_length / 2 + camera_height / 2}" />
+
+    <!-- 设计连杆和关节 -->
+    <link name="camera">
+        <visual>
+            <geometry>
+                <box size="${camera_length} ${camera_width} ${camera_height}" />
+            </geometry>
+
+            <material name="black">
+                <color rgba="0 0 0 0.8" />
+            </material>
+        </visual>
+    </link>
+
+    <joint name="camera_to_base" type="fixed">
+        <parent link="base_link"/>
+        <child link="camera" />
+        <origin xyz="${joint_camera_x} ${joint_camera_y} ${joint_camera_z}" rpy="0 0 0" />
+    </joint>
+</robot>

@@ -1,0 +1,2 @@
+plumbing_test
+-DCATKIN_DEVEL_PREFIX=/home/help/ros_demo/demo6_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/ros_demo/demo6_ws/install -G Unix Makefiles

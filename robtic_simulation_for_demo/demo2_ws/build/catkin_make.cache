@@ -1,0 +1,2 @@
+urdf1_rviz
+-DCATKIN_DEVEL_PREFIX=/home/help/robotic_simulation/demo2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/help/robotic_simulation/demo2_ws/install -G Unix Makefiles
