@@ -2,7 +2,7 @@
 
 ## 技术栈
 
-<img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 90%">
+<img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 70%">
 
 ## 自动驾驶学习资料合集
 [学习资料合集](https://zhuanlan.zhihu.com/p/58422485)
@@ -59,8 +59,27 @@
 * 对 ros 的学习
 * [ros入门](https://www.bilibili.com/video/BV1Ci4y1L7ZZ/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [ros入门文档](http://www.autolabor.com.cn/book/ROSTutorials/chapter1.html)
+* [ros1和ros2的区别](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247569968&idx=1&sn=2731841748d899578ac2a0e50a95b74e&chksm=fbc9ab54ccbe2242ccddec689ea666bbc42c7ebc27845f63186b7909bf165409b2c84fba8117&scene=126&sessionid=1685621388#rd) (X)
+* [知乎 | 如何学习ROS？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485869&idx=1&sn=f3b205db80a1f582dd3e27fd5315991d&chksm=fbcb70c9ccbcf9df24dea091be68f80d1f1bb06251314d768ef837fa1ba39be30a50a41810a9&scene=126&sessionid=1685622696#rd) (X)
+* [知乎 | 入门学习ROS时遇到的最大困难是什么？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485874&idx=1&sn=d4f7c9c6bd65e17ccd7a8a3b7dbae050&chksm=fbcb70d6ccbcf9c094dcd74d60037a212c2944def52522ff7efa23f82181a473f592e664fc47&scene=126&sessionid=1685622696#rd) (X)
+* [ros与机器人](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574804&idx=1&sn=a7dcd992a6e55c571dc7a5631a764705&chksm=fbc9dc70ccbe5566132c3f5591eb6db7b521480f32195a783dfd7e0a5908bf64222dbfb459a5&scene=126&sessionid=1685621256#rd) (X)
 
 ---
+
+## 坐标系
+
+* 在泊车的坐标系大致分为 三种 分别是 **车辆坐标系** **世界坐标系** **栅格坐标系**
+* 在规划的过程中需要不断变换坐标系进行计算
+* 变换的时候容易混乱
+* [一文详解自动驾驶中的时空坐标系](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247541443&idx=4&sn=159f600d3e171e497f842d4b8c8c13f5&chksm=ceb80f0af9cf861c3733fea58444165a23150a88593ebdf826fc709dbe4a7458a405b475e93c&scene=126&sessionid=1685618763#rd) (X)
+* **标定？** 现在似乎还没用上 -> [一文理清标定中的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486325&idx=1&sn=19819c6d26b6792f0bcc0fe1b0fab9a2&chksm=fbcb7211ccbcfb07c16177a3cb938e5d9db6ef44eb07b9d3d6e91a315ed146b1e6c1150944f3&scene=126&sessionid=1685622515#rd) (X)
+* [干货 | 欧拉角、四元数？晕头转向的空间姿态表示法(上篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486211&idx=1&sn=c6ef408285035a041b23acf276414b38&chksm=fbcb7267ccbcfb71d548f734d5290ef141f254591bc62ea7aa02c9bbe41d99c748325fe2e243&scene=126&sessionid=1685622531#rd) (X)
+* [干货 | 欧拉角，四元数？晕头转向的空间姿态表示法(下篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486284&idx=1&sn=34ff91b951ebfe4f21ce9e4f511bfe3e&chksm=fbcb7228ccbcfb3e55b4a2b4de89a166e0467b1358a1030f15949cf1d97baa83a67e64cd0fa1&scene=126&sessionid=1685622515#rd) (X)
+* [干货 | 位置角度平移旋转 “乱七八糟”的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485768&idx=1&sn=13a92a0f9d1a7266f2cc6449bf6002eb&chksm=fbcb702cccbcf93a03feb15b98f3474b5ea70e2129cabbce5e57f3e0152c7ae26da6b1ab0c9c&scene=126&sessionid=1685622578#rd) (X)
+* [ROS TF添加一个坐标系](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247513185&idx=2&sn=1c18b7966416278ca33845cfde0c95fc&chksm=fbc8cd05ccbf44132dfd8efd34b6981b34e55110968fa781e182b0c42be6773caa1eb0c51e93&scene=126&sessionid=1685622214#rd) (X)
+* [ROS技术点滴 —— tf坐标变换库](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485865&idx=1&sn=1be2771b05ee1db1becbf0b5880be06f&chksm=fbcb70cdccbcf9dbf702b7e48c9abc19c8822c976e2683c3656c235b1f4ca6c985f36463bae5&scene=126&sessionid=1685622683#rd) (X)
+* [ROS TF2-通过tf2_ros::MessageFilter 将世界坐标系下的点转为期望坐标系下的点](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514456&idx=1&sn=a8319e8e282bfe85af37340727887ecd&chksm=fbc8c03cccbf492a457046270df76602d5a7c0fa52f25f86be8168a406c93d913d8e21864d84&scene=126&sessionid=1685622173#rd) (X)
+* [TF2 坐标变换-监听实例](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514325&idx=1&sn=6f5c78fd846d7307440200216e047879&chksm=fbc8c1b1ccbf48a7b5fd679f09318acc9f0550db81cb6ebc94d67136b243ffe362a31c17c84b&scene=126&sessionid=1685622173#rd) (X)
 
 ## 规划算法
 
@@ -68,58 +87,53 @@
 * 实现一下 `混合A*` 在泊车方面的效果 [项目传送门](https://github.com/ProgramTraveler/Narrow_and_Crowded_Spaces)
 * 这让我对算法的思路和代码的具体实现有了一个初入的了解
 * 也更容易让我读源码 -> 百度的 apollo 或许更适合去当一个说明书？
+* [路径规划算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=2430883367362592769&scene=173&from_msgid=2247580065&from_itemidx=1&count=3&nolastread=1#wechat_redirect) (X)
 
-### 混合 A*
+### A`*` 算法
+
+* [决策规划|通俗易懂聊`A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247521925&idx=3&sn=87b5eb0d1175235dbc3d224833088dcf&chksm=ceb8bb4cf9cf325a6bb5e5b0dab5cda7e7f56123edf35d8564a6a1da9ea1a7b55707a5bf9e6f&scene=126&sessionid=1685619222#rd)
+* * [`A*算法`-启发式算法](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247578122&idx=1&sn=bd273c189bc8c79d65c41c876f6ac9b7&chksm=fbc9cb6eccbe4278ed6261e77f2be94a319c45a9ba18622e7bf233dfe1eca07fcbc75c182279&scene=126&sessionid=1685621064#rd)
+* [自动驾驶路径规划-`A*算法`](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247577202&idx=1&sn=f4ea8c5fcd176ace130c11227ea09e59&chksm=fbc9d716ccbe5e00ac2af1c120236f9d4adeb375b0847ee3ee784dada75649e2b6a11eac8dbd&scene=126&sessionid=1685621139#rd)
+* [机器人运动规划算法研究现状简述](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247558390&idx=1&sn=d77b7672eb613350e0a2f0ca1fe90dd9&chksm=fbc99d92ccbe1484ee3da8ae12d198b349eeb4879dab4ee739112702de487ae7753f1a1fd87b&scene=126&sessionid=1685621516#rd)
+
+### 混合 A`*` 算法
 
 * 我认为写的不错的一个博客 初次对规划算法的了解 [传送门](https://blog.csdn.net/robinvista/article/details/106279968)
+* 这个内容和下面那个重复了 -> [一个实例了解自动驾驶路径规划](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=1984319792857579524&scene=173&from_msgid=2247523712&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
 * 对`混合A*` 结合代码的讲解[自动泊车实例](https://www.guyuehome.com/author/617f950de99b5)
+* [规划控制|`Hybrid A*`算法仿真实践](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247523450&idx=3&sn=dddcc5a5b9103553347cab9c2edeaa32&chksm=ceb8b1b3f9cf38a5d7bebeeb2f9c96545910d091b62e8e1178bf9ec069dc7d607e4d9bbed1fa&scene=126&sessionid=1685619187#rd)
+* [规划控制|详解自动驾驶轨迹规划`Hybrid A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247530419&idx=2&sn=45f1201efe4fbf51415df01e5c2b7377&chksm=ceb85a7af9cfd36c6536a313558de3346ee0e5b55e3a49f1e3d3ce5cad91bd81595503b44bd2&scene=126&sessionid=1685619036#rd)
+* [`混合A*算法`研究](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573889&idx=1&sn=4ce63d439ef186a119c5909021c49b06&chksm=fbc9d8e5ccbe51f3c8c49ef2fb7e9559c6eaf75778a69107b6f930f0ab3b8725cde90166bf1f&scene=126&sessionid=1685621296#rd)
 
 ---
+
+## 综述
+
+* [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506489&idx=3&sn=723e229e2348a36c6ef8535d998f4313&chksm=ceb8f7f0f9cf7ee6f48146ed100ced271f342113ca943db0c665f5d0bda899a3dc0b5b2f112c&scene=126&sessionid=1685619485#rd) (X)
+* [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) (X)
+* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) (X)
+
+## 其他
+
+* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd)
 
 ## 待看
 
 * 一些文章 还没来得及看 先记录在这里
-* [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506489&idx=3&sn=723e229e2348a36c6ef8535d998f4313&chksm=ceb8f7f0f9cf7ee6f48146ed100ced271f342113ca943db0c665f5d0bda899a3dc0b5b2f112c&scene=126&sessionid=1685619485#rd)
-* [自动驾驶路径规划五打常用算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506660&idx=4&sn=8d28790e4e04596878599ab29cc1e538&chksm=ceb8f72df9cf7e3b20f4202279bff61454c2ee973956e4f796ca064d15dbd07c9cc6a6ab379b&scene=126&sessionid=1685619485#rd)
-* [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd)
-* [决策规划|通俗易懂聊`A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247521925&idx=3&sn=87b5eb0d1175235dbc3d224833088dcf&chksm=ceb8bb4cf9cf325a6bb5e5b0dab5cda7e7f56123edf35d8564a6a1da9ea1a7b55707a5bf9e6f&scene=126&sessionid=1685619222#rd)
-* [规划控制|`Hybrid A*`算法仿真实践](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247523450&idx=3&sn=dddcc5a5b9103553347cab9c2edeaa32&chksm=ceb8b1b3f9cf38a5d7bebeeb2f9c96545910d091b62e8e1178bf9ec069dc7d607e4d9bbed1fa&scene=126&sessionid=1685619187#rd)
-* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd)
-* [规划控制|详解自动驾驶轨迹规划`Hybrid A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247530419&idx=2&sn=45f1201efe4fbf51415df01e5c2b7377&chksm=ceb85a7af9cfd36c6536a313558de3346ee0e5b55e3a49f1e3d3ce5cad91bd81595503b44bd2&scene=126&sessionid=1685619036#rd)
+* [自动驾驶路径规划五大常用算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506660&idx=4&sn=8d28790e4e04596878599ab29cc1e538&chksm=ceb8f72df9cf7e3b20f4202279bff61454c2ee973956e4f796ca064d15dbd07c9cc6a6ab379b&scene=126&sessionid=1685619485#rd)
 * [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd)
 * [聊一聊自动驾驶规划中的优化问题](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247537284&idx=3&sn=9ea6f3e54f69cef26696ca1b86de0edf&chksm=ceb87f4df9cff65bf35a6a8a391c478a0f768378074b80f6bfafb8db8465e61f68fdcbf28732&scene=126&sessionid=1685618863#rd)
-* [一文详解自动驾驶中的时空坐标系](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247541443&idx=4&sn=159f600d3e171e497f842d4b8c8c13f5&chksm=ceb80f0af9cf861c3733fea58444165a23150a88593ebdf826fc709dbe4a7458a405b475e93c&scene=126&sessionid=1685618763#rd)
-
-* [路径规划算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=2430883367362592769&scene=173&from_msgid=2247580065&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
 * [车辆运动学建模(一)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579320&idx=2&sn=a5179da9eaa2fb2f7c4972bd55b42af0&chksm=fbc9cfdcccbe46caed70d72a72c4ce5974193a18720fed3ebed94b3384ade72846a1eb265926&scene=126&sessionid=1685621006#rd)
-* [`A*算法`-启发式算法](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247578122&idx=1&sn=bd273c189bc8c79d65c41c876f6ac9b7&chksm=fbc9cb6eccbe4278ed6261e77f2be94a319c45a9ba18622e7bf233dfe1eca07fcbc75c182279&scene=126&sessionid=1685621064#rd)
-* [自动驾驶路径规划-`A*算法`](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247577202&idx=1&sn=f4ea8c5fcd176ace130c11227ea09e59&chksm=fbc9d716ccbe5e00ac2af1c120236f9d4adeb375b0847ee3ee784dada75649e2b6a11eac8dbd&scene=126&sessionid=1685621139#rd)
-* [ros与机器人](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574804&idx=1&sn=a7dcd992a6e55c571dc7a5631a764705&chksm=fbc9dc70ccbe5566132c3f5591eb6db7b521480f32195a783dfd7e0a5908bf64222dbfb459a5&scene=126&sessionid=1685621256#rd)
 * [纯跟踪算法用于无人车自动泊车](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574470&idx=1&sn=1987ef99c3e0696ef748fdd20f4a99ae&chksm=fbc9daa2ccbe53b470a251ed7ab53bdfeb05f9ae66ef65a49a0adf61214e253a15e3a16482a0&scene=126&sessionid=1685621269#rd)
 * [无人车系统(一)-运动学模型及其线性化](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574228&idx=1&sn=89cd2b9ee502d81ded3756678f7f80a5&chksm=fbc9dbb0ccbe52a683110dff554fa094ec32c3a68bdf379045cf26340b6aa5261e62ceb042d1&scene=126&sessionid=1685621296#rd)
-* [`混合A*算法`研究](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573889&idx=1&sn=4ce63d439ef186a119c5909021c49b06&chksm=fbc9d8e5ccbe51f3c8c49ef2fb7e9559c6eaf75778a69107b6f930f0ab3b8725cde90166bf1f&scene=126&sessionid=1685621296#rd)
 * [局部路径规划-Frenet坐标系下的动态轨迹规划](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573290&idx=1&sn=17ab567a8748c61e7dd05d60df803dce&chksm=fbc9a64eccbe2f58c260d345c6ddcfa078daa27d71c5f0dfb72050bde114e5dc968aed71695c&scene=126&sessionid=1685621317#rd)
 * [阿克曼运动控制](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247572761&idx=1&sn=d9f4b399c52a803a0df59c095c0ac838&chksm=fbc9a47dccbe2d6bca73e64d06d33c5875077c8d667e00f067b44b52de92dd0a68350c736275&scene=126&sessionid=1685621317#rd)
 * [AutowareAuto泊车案例复现及原理简介](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247571086&idx=1&sn=a53c100dc997a0c4eba55d8032cddd8c&chksm=fbc9afeaccbe26fcf56023de7e1fc21d5110cac625404254a6871843a3d9e2f064ea7f071409&scene=126&sessionid=1685621360#rd)
 * [全局路径规划-RRT算法原理及实现](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247570745&idx=1&sn=9723558902c987664d082aa332663b82&chksm=fbc9ac5dccbe254b66b4d31e7f0629671d1945835c7f06f3464fb7796532c4ae91e703b36f4f&scene=126&sessionid=1685621373#rd)
-* [ros1和ros2的区别](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247569968&idx=1&sn=2731841748d899578ac2a0e50a95b74e&chksm=fbc9ab54ccbe2242ccddec689ea666bbc42c7ebc27845f63186b7909bf165409b2c84fba8117&scene=126&sessionid=1685621388#rd)
 * [机器人碰撞检测几何模型设计](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247559064&idx=1&sn=0c45aedb2561d8a143a3371412ca278d&chksm=fbc99efcccbe17eaf10874b6d27697360ab5ed292edec6d62c5844c9927f23efa71cf89c7d4b&scene=126&sessionid=1685621516#rd)
-* [机器人运动规划算法研究现状简述](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247558390&idx=1&sn=d77b7672eb613350e0a2f0ca1fe90dd9&chksm=fbc99d92ccbe1484ee3da8ae12d198b349eeb4879dab4ee739112702de487ae7753f1a1fd87b&scene=126&sessionid=1685621516#rd)
 * [贝叶斯优化(原理+代码解读)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247557245&idx=1&sn=cb8df2895ac799e176e6fcf83c15a09a&chksm=fbc99919ccbe100faf00aed2bd98edf4a7e42b7c986af341ad466a07a3f22545071f228177d1&scene=126&sessionid=1685621560#rd)
 * [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
-* [一个实例了解自动驾驶路径规划](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=1984319792857579524&scene=173&from_msgid=2247523712&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
-* [ROS TF2-通过tf2_ros::MessageFilter 将世界坐标系下的点转为期望坐标系下的点](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514456&idx=1&sn=a8319e8e282bfe85af37340727887ecd&chksm=fbc8c03cccbf492a457046270df76602d5a7c0fa52f25f86be8168a406c93d913d8e21864d84&scene=126&sessionid=1685622173#rd)
-* [TF2 坐标变换-监听实例](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514325&idx=1&sn=6f5c78fd846d7307440200216e047879&chksm=fbc8c1b1ccbf48a7b5fd679f09318acc9f0550db81cb6ebc94d67136b243ffe362a31c17c84b&scene=126&sessionid=1685622173#rd)
-* [ROS TF添加一个坐标系](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247513185&idx=2&sn=1c18b7966416278ca33845cfde0c95fc&chksm=fbc8cd05ccbf44132dfd8efd34b6981b34e55110968fa781e182b0c42be6773caa1eb0c51e93&scene=126&sessionid=1685622214#rd)
-* [一文理清标定中的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486325&idx=1&sn=19819c6d26b6792f0bcc0fe1b0fab9a2&chksm=fbcb7211ccbcfb07c16177a3cb938e5d9db6ef44eb07b9d3d6e91a315ed146b1e6c1150944f3&scene=126&sessionid=1685622515#rd)
-* [干货 | 欧拉角，四元数？晕头转向的空间姿态表示法(下篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486284&idx=1&sn=34ff91b951ebfe4f21ce9e4f511bfe3e&chksm=fbcb7228ccbcfb3e55b4a2b4de89a166e0467b1358a1030f15949cf1d97baa83a67e64cd0fa1&scene=126&sessionid=1685622515#rd)
-* [干货 | 欧拉角、四元数？晕头转向的空间姿态表示法(上篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486211&idx=1&sn=c6ef408285035a041b23acf276414b38&chksm=fbcb7267ccbcfb71d548f734d5290ef141f254591bc62ea7aa02c9bbe41d99c748325fe2e243&scene=126&sessionid=1685622531#rd)
-* [干货 | 位置角度平移旋转 “乱七八糟”的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485768&idx=1&sn=13a92a0f9d1a7266f2cc6449bf6002eb&chksm=fbcb702cccbcf93a03feb15b98f3474b5ea70e2129cabbce5e57f3e0152c7ae26da6b1ab0c9c&scene=126&sessionid=1685622578#rd)
-* [ROS技术点滴 —— tf坐标变换库](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485865&idx=1&sn=1be2771b05ee1db1becbf0b5880be06f&chksm=fbcb70cdccbcf9dbf702b7e48c9abc19c8822c976e2683c3656c235b1f4ca6c985f36463bae5&scene=126&sessionid=1685622683#rd)
-* [知乎 | 如何学习ROS？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485869&idx=1&sn=f3b205db80a1f582dd3e27fd5315991d&chksm=fbcb70c9ccbcf9df24dea091be68f80d1f1bb06251314d768ef837fa1ba39be30a50a41810a9&scene=126&sessionid=1685622696#rd)
-* [知乎 | 入门学习ROS时遇到的最大困难是什么？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485874&idx=1&sn=d4f7c9c6bd65e17ccd7a8a3b7dbae050&chksm=fbcb70d6ccbcf9c094dcd74d60037a212c2944def52522ff7efa23f82181a473f592e664fc47&scene=126&sessionid=1685622696#rd)
-* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd)
 
 ---
