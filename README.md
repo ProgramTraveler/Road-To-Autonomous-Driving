@@ -2,7 +2,7 @@
 
 ## 技术栈
 
-<img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 150%">
+<img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 90%">
 
 ## 自动驾驶学习资料合集
 [学习资料合集](https://zhuanlan.zhihu.com/p/58422485)
@@ -120,5 +120,6 @@
 * [ROS技术点滴 —— tf坐标变换库](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485865&idx=1&sn=1be2771b05ee1db1becbf0b5880be06f&chksm=fbcb70cdccbcf9dbf702b7e48c9abc19c8822c976e2683c3656c235b1f4ca6c985f36463bae5&scene=126&sessionid=1685622683#rd)
 * [知乎 | 如何学习ROS？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485869&idx=1&sn=f3b205db80a1f582dd3e27fd5315991d&chksm=fbcb70c9ccbcf9df24dea091be68f80d1f1bb06251314d768ef837fa1ba39be30a50a41810a9&scene=126&sessionid=1685622696#rd)
 * [知乎 | 入门学习ROS时遇到的最大困难是什么？](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485874&idx=1&sn=d4f7c9c6bd65e17ccd7a8a3b7dbae050&chksm=fbcb70d6ccbcf9c094dcd74d60037a212c2944def52522ff7efa23f82181a473f592e664fc47&scene=126&sessionid=1685622696#rd)
+* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd)
 
 ---
