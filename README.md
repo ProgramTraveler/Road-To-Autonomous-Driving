@@ -109,7 +109,7 @@
 
 ## 综述
 
-* [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506489&idx=3&sn=723e229e2348a36c6ef8535d998f4313&chksm=ceb8f7f0f9cf7ee6f48146ed100ced271f342113ca943db0c665f5d0bda899a3dc0b5b2f112c&scene=126&sessionid=1685619485#rd) (X)
+* [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://zhuanlan.zhihu.com/p/260707853) ---> [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
 * [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) (X)
 * [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) (X)
 
