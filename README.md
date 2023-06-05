@@ -92,7 +92,7 @@
 ### A`*` 算法
 
 * [决策规划|通俗易懂聊`A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247521925&idx=3&sn=87b5eb0d1175235dbc3d224833088dcf&chksm=ceb8bb4cf9cf325a6bb5e5b0dab5cda7e7f56123edf35d8564a6a1da9ea1a7b55707a5bf9e6f&scene=126&sessionid=1685619222#rd)
-* * [`A*算法`-启发式算法](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247578122&idx=1&sn=bd273c189bc8c79d65c41c876f6ac9b7&chksm=fbc9cb6eccbe4278ed6261e77f2be94a319c45a9ba18622e7bf233dfe1eca07fcbc75c182279&scene=126&sessionid=1685621064#rd)
+* [`A*算法`-启发式算法](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247578122&idx=1&sn=bd273c189bc8c79d65c41c876f6ac9b7&chksm=fbc9cb6eccbe4278ed6261e77f2be94a319c45a9ba18622e7bf233dfe1eca07fcbc75c182279&scene=126&sessionid=1685621064#rd)
 * [自动驾驶路径规划-`A*算法`](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247577202&idx=1&sn=f4ea8c5fcd176ace130c11227ea09e59&chksm=fbc9d716ccbe5e00ac2af1c120236f9d4adeb375b0847ee3ee784dada75649e2b6a11eac8dbd&scene=126&sessionid=1685621139#rd)
 * [机器人运动规划算法研究现状简述](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247558390&idx=1&sn=d77b7672eb613350e0a2f0ca1fe90dd9&chksm=fbc99d92ccbe1484ee3da8ae12d198b349eeb4879dab4ee739112702de487ae7753f1a1fd87b&scene=126&sessionid=1685621516#rd)
 
