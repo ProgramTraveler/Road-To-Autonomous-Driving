@@ -87,23 +87,32 @@
 
 ---
 
-### 规划算法
+### 规划
 
 * 最近在尝试做规划算法的具体实践
 * 实现一下 `混合A*` 在泊车方面的效果 [项目传送门](https://github.com/ProgramTraveler/Narrow_and_Crowded_Spaces)
 * 这让我对算法的思路和代码的具体实现有了一个初入的了解
 * 也更容易让我读源码 ---> 百度的 apollo 或许更适合去当一个说明书？
+
+#### 运动规划
+
+* [机器人运动规划算法研究现状简述](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247558390&idx=1&sn=d77b7672eb613350e0a2f0ca1fe90dd9&chksm=fbc99d92ccbe1484ee3da8ae12d198b349eeb4879dab4ee739112702de487ae7753f1a1fd87b&scene=126&sessionid=1685621516#rd) --> [wiki笔记(算法优缺点)](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E7%AE%80%E8%BF%B0)
+* [聊一聊自动驾驶规划中的优化问题](https://zhuanlan.zhihu.com/p/585825996) ---> 内容一般 有价值的东西不多(未入门的可以看一下)
+* [运动规划系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MTIyMjQwNQ==&action=getalbum&album_id=2236876593568858115&scene=173&from_msgid=2247483715&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+* [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3(%E5%85%A8%E5%B1%80%E8%A7%84%E5%88%92%E3%80%81%E8%A1%8C%E4%B8%BA%E5%86%B3%E7%AD%96%E3%80%81%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92))
+
+#### 规划算法
+
 * [路径规划算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=2430883367362592769&scene=173&from_msgid=2247580065&from_itemidx=1&count=3&nolastread=1#wechat_redirect) (X)
-* [机器人运动规划算法研究现状简述](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247558390&idx=1&sn=d77b7672eb613350e0a2f0ca1fe90dd9&chksm=fbc99d92ccbe1484ee3da8ae12d198b349eeb4879dab4ee739112702de487ae7753f1a1fd87b&scene=126&sessionid=1685621516#rd) --> 对不同的路径规划算法进行了优缺点的对比
 * [自动驾驶路径规划五大常用算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506660&idx=4&sn=8d28790e4e04596878599ab29cc1e538&chksm=ceb8f72df9cf7e3b20f4202279bff61454c2ee973956e4f796ca064d15dbd07c9cc6a6ab379b&scene=126&sessionid=1685619485#rd)
 
-#### A\* 算法
+##### A\* 算法
 
 * [决策规划|通俗易懂聊`A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247521925&idx=3&sn=87b5eb0d1175235dbc3d224833088dcf&chksm=ceb8bb4cf9cf325a6bb5e5b0dab5cda7e7f56123edf35d8564a6a1da9ea1a7b55707a5bf9e6f&scene=126&sessionid=1685619222#rd)
 * [`A*算法`-启发式算法](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247578122&idx=1&sn=bd273c189bc8c79d65c41c876f6ac9b7&chksm=fbc9cb6eccbe4278ed6261e77f2be94a319c45a9ba18622e7bf233dfe1eca07fcbc75c182279&scene=126&sessionid=1685621064#rd)
 * [自动驾驶路径规划-`A*算法`](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247577202&idx=1&sn=f4ea8c5fcd176ace130c11227ea09e59&chksm=fbc9d716ccbe5e00ac2af1c120236f9d4adeb375b0847ee3ee784dada75649e2b6a11eac8dbd&scene=126&sessionid=1685621139#rd)
 
-#### 混合 A\* 算法
+##### 混合 A\* 算法
 
 * 我认为写的不错的一个博客 初次对规划算法的了解 [传送门](https://blog.csdn.net/robinvista/article/details/106279968)
 * 对`混合A*` 结合代码的讲解[自动泊车实例](https://www.guyuehome.com/author/617f950de99b5)
@@ -116,7 +125,7 @@
 ### 综述
 
 * [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://zhuanlan.zhihu.com/p/260707853) ---> [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
-* [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) (X)
+* [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd)
 * [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) (X)
 
 ---
@@ -126,7 +135,7 @@
 * [车辆运动学建模(一)](https://www.guyuehome.com/42662) ---> 说的并不详细 感觉就是把公式再抄一遍 没有收获!!!
 * [车辆运动学建模(二)](https://www.guyuehome.com/42664) ---> 说的并不详细 感觉就是把公式再抄一遍 没有收获!!!
 * [移动机器人(一)-运动模型](https://www.guyuehome.com/18424) ---> 主要看的是 car-like mobile 部分
-* [Car-like Robot运动模型及应用分析](https://mp.weixin.qq.com/s/hCAzGJDSZFsFHoC5hTVsjA) ---> 对模型设计和数学推到非常详细 比大部分的博客都强[wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/Car-like-Robot%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90)
+* [Car-like Robot运动模型及应用分析](https://mp.weixin.qq.com/s/hCAzGJDSZFsFHoC5hTVsjA) ---> 对模型设计和数学推导详细 比大部分的博客强 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/Car-like-Robot%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90)
 
 ### 其他
 
@@ -137,8 +146,6 @@
 ## 待看
 
 * 一些文章 还没来得及看 先记录在这里
-* [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd)
-* [聊一聊自动驾驶规划中的优化问题](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247537284&idx=3&sn=9ea6f3e54f69cef26696ca1b86de0edf&chksm=ceb87f4df9cff65bf35a6a8a391c478a0f768378074b80f6bfafb8db8465e61f68fdcbf28732&scene=126&sessionid=1685618863#rd)
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
 * [纯跟踪算法用于无人车自动泊车](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574470&idx=1&sn=1987ef99c3e0696ef748fdd20f4a99ae&chksm=fbc9daa2ccbe53b470a251ed7ab53bdfeb05f9ae66ef65a49a0adf61214e253a15e3a16482a0&scene=126&sessionid=1685621269#rd)
 * [无人车系统(一)-运动学模型及其线性化](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574228&idx=1&sn=89cd2b9ee502d81ded3756678f7f80a5&chksm=fbc9dbb0ccbe52a683110dff554fa094ec32c3a68bdf379045cf26340b6aa5261e62ceb042d1&scene=126&sessionid=1685621296#rd)
@@ -150,6 +157,5 @@
 * [贝叶斯优化(原理+代码解读)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247557245&idx=1&sn=cb8df2895ac799e176e6fcf83c15a09a&chksm=fbc99919ccbe100faf00aed2bd98edf4a7e42b7c986af341ad466a07a3f22545071f228177d1&scene=126&sessionid=1685621560#rd)
 * [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
-* [运动规划系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MTIyMjQwNQ==&action=getalbum&album_id=2236876593568858115&scene=173&from_msgid=2247483715&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 ---
