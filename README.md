@@ -12,7 +12,34 @@
 
 ---
 
-## 炼气期
+### 书籍
+
+* [《动手学深度学习》](https://book.douban.com/subject/33450010/)
+* [《无人驾驶原理与实践》](https://book.douban.com/subject/30494269/)
+* [《机器学习导论》](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb)
+* [《机器学习》](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9)
+
+---
+
+### 视频
+
+#### 强化学习
+
+* [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03)
+* [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu)
+
+#### 最优化理论
+
+* [最优化理论](https://space.bilibili.com/507629580)
+
+#### 矩阵理论
+
+* [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03)
+* [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03)
+
+---
+
+## 练气期
 
 ### 初入 Apollo 
 
@@ -93,6 +120,7 @@
 * 实现一下 `混合A*` 在泊车方面的效果 [项目传送门](https://github.com/ProgramTraveler/Narrow_and_Crowded_Spaces)
 * 这让我对算法的思路和代码的具体实现有了一个初入的了解
 * 也更容易让我读源码 ---> 百度的 apollo 或许更适合去当一个说明书？
+* [AutowareAuto泊车案例复现及原理简介](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247571086&idx=1&sn=a53c100dc997a0c4eba55d8032cddd8c&chksm=fbc9afeaccbe26fcf56023de7e1fc21d5110cac625404254a6871843a3d9e2f064ea7f071409&scene=126&sessionid=1685621360#rd)
 
 #### 运动规划
 
@@ -100,10 +128,11 @@
 * [聊一聊自动驾驶规划中的优化问题](https://zhuanlan.zhihu.com/p/585825996) ---> 内容一般 有价值的东西不多(未入门的可以看一下)
 * [运动规划系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MTIyMjQwNQ==&action=getalbum&album_id=2236876593568858115&scene=173&from_msgid=2247483715&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3(%E5%85%A8%E5%B1%80%E8%A7%84%E5%88%92%E3%80%81%E8%A1%8C%E4%B8%BA%E5%86%B3%E7%AD%96%E3%80%81%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92))
+* [无人驾驶路径规划（三）局部路径规划-Frenet坐标系下的动态轨迹规划](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573290&idx=1&sn=17ab567a8748c61e7dd05d60df803dce&chksm=fbc9a64eccbe2f58c260d345c6ddcfa078daa27d71c5f0dfb72050bde114e5dc968aed71695c&scene=126&sessionid=1685621317#rd) ---> [原文链接(有些图片失效了)](https://www.guyuehome.com/40491) ---> 没有什么参考价值 公式都是贴图
 
 #### 规划算法
 
-* [路径规划算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=2430883367362592769&scene=173&from_msgid=2247580065&from_itemidx=1&count=3&nolastread=1#wechat_redirect) (X)
+* [路径规划算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU1NjEwMTY0Mw==&action=getalbum&album_id=2430883367362592769&scene=173&from_msgid=2247580065&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [自动驾驶路径规划五大常用算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247506660&idx=4&sn=8d28790e4e04596878599ab29cc1e538&chksm=ceb8f72df9cf7e3b20f4202279bff61454c2ee973956e4f796ca064d15dbd07c9cc6a6ab379b&scene=126&sessionid=1685619485#rd)
 
 ##### A\* 算法
@@ -136,10 +165,20 @@
 * [车辆运动学建模(二)](https://www.guyuehome.com/42664) ---> 说的并不详细 感觉就是把公式再抄一遍 没有收获!!!
 * [移动机器人(一)-运动模型](https://www.guyuehome.com/18424) ---> 主要看的是 car-like mobile 部分
 * [Car-like Robot运动模型及应用分析](https://mp.weixin.qq.com/s/hCAzGJDSZFsFHoC5hTVsjA) ---> 对模型设计和数学推导详细 比大部分的博客强 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/Car-like-Robot%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%88%86%E6%9E%90)
+* [无人车系统(一)-运动学模型及其线性化](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574228&idx=1&sn=89cd2b9ee502d81ded3756678f7f80a5&chksm=fbc9dbb0ccbe52a683110dff554fa094ec32c3a68bdf379045cf26340b6aa5261e62ceb042d1&scene=126&sessionid=1685621296#rd)
+
+### 碰撞检测
+
+* [机器人碰撞检测几何模型设计](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247559064&idx=1&sn=0c45aedb2561d8a143a3371412ca278d&chksm=fbc99efcccbe17eaf10874b6d27697360ab5ed292edec6d62c5844c9927f23efa71cf89c7d4b&scene=126&sessionid=1685621516#rd)
+
+### 优化
+
+* [贝叶斯优化(原理+代码解读)](https://zhuanlan.zhihu.com/p/390373572)
 
 ### 其他
 
-* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd)
+* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人喜欢 github wiki
+* [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
 
 ---
 
@@ -147,15 +186,8 @@
 
 * 一些文章 还没来得及看 先记录在这里
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
-* [纯跟踪算法用于无人车自动泊车](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574470&idx=1&sn=1987ef99c3e0696ef748fdd20f4a99ae&chksm=fbc9daa2ccbe53b470a251ed7ab53bdfeb05f9ae66ef65a49a0adf61214e253a15e3a16482a0&scene=126&sessionid=1685621269#rd)
-* [无人车系统(一)-运动学模型及其线性化](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574228&idx=1&sn=89cd2b9ee502d81ded3756678f7f80a5&chksm=fbc9dbb0ccbe52a683110dff554fa094ec32c3a68bdf379045cf26340b6aa5261e62ceb042d1&scene=126&sessionid=1685621296#rd)
-* [局部路径规划-Frenet坐标系下的动态轨迹规划](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573290&idx=1&sn=17ab567a8748c61e7dd05d60df803dce&chksm=fbc9a64eccbe2f58c260d345c6ddcfa078daa27d71c5f0dfb72050bde114e5dc968aed71695c&scene=126&sessionid=1685621317#rd)
-* [阿克曼运动控制](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247572761&idx=1&sn=d9f4b399c52a803a0df59c095c0ac838&chksm=fbc9a47dccbe2d6bca73e64d06d33c5875077c8d667e00f067b44b52de92dd0a68350c736275&scene=126&sessionid=1685621317#rd)
-* [AutowareAuto泊车案例复现及原理简介](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247571086&idx=1&sn=a53c100dc997a0c4eba55d8032cddd8c&chksm=fbc9afeaccbe26fcf56023de7e1fc21d5110cac625404254a6871843a3d9e2f064ea7f071409&scene=126&sessionid=1685621360#rd)
-* [全局路径规划-RRT算法原理及实现](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247570745&idx=1&sn=9723558902c987664d082aa332663b82&chksm=fbc9ac5dccbe254b66b4d31e7f0629671d1945835c7f06f3464fb7796532c4ae91e703b36f4f&scene=126&sessionid=1685621373#rd)
-* [机器人碰撞检测几何模型设计](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247559064&idx=1&sn=0c45aedb2561d8a143a3371412ca278d&chksm=fbc99efcccbe17eaf10874b6d27697360ab5ed292edec6d62c5844c9927f23efa71cf89c7d4b&scene=126&sessionid=1685621516#rd)
-* [贝叶斯优化(原理+代码解读)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247557245&idx=1&sn=cb8df2895ac799e176e6fcf83c15a09a&chksm=fbc99919ccbe100faf00aed2bd98edf4a7e42b7c986af341ad466a07a3f22545071f228177d1&scene=126&sessionid=1685621560#rd)
-* [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
+* [Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现](https://www.guyuehome.com/34181)
+* [机器学习与优化基础（Machine Learning and Optimization）](https://zhuanlan.zhihu.com/p/169835477)
 
 ---
