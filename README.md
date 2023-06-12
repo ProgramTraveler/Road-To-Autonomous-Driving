@@ -14,10 +14,10 @@
 
 ### 书籍
 
-* [《动手学深度学习》](https://book.douban.com/subject/33450010/)
+* [《动手学深度学习》](https://book.douban.com/subject/33450010/) &#x2714;
 * [《无人驾驶原理与实践》](https://book.douban.com/subject/30494269/)
-* [《机器学习导论》](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb)
-* [《机器学习》](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9)
+* [《机器学习导论》](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) &#x2716;
+* [《机器学习》](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) &#x2716;
 
 ---
 
@@ -25,8 +25,8 @@
 
 #### 强化学习
 
-* [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03)
-* [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu)
+* [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu) &#x2716;
 
 #### 最优化理论
 
@@ -34,8 +34,8 @@
 
 #### 矩阵理论
 
-* [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03)
-* [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03)
+* [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
 
 ---
 
@@ -102,15 +102,15 @@
 * 在泊车的坐标系大致分为 三种 分别是 **车辆坐标系** **世界坐标系** **栅格坐标系**
 * 在规划的过程中需要不断变换坐标系进行计算
 * 变换的时候容易混乱
-* [一文详解自动驾驶中的时空坐标系](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247541443&idx=4&sn=159f600d3e171e497f842d4b8c8c13f5&chksm=ceb80f0af9cf861c3733fea58444165a23150a88593ebdf826fc709dbe4a7458a405b475e93c&scene=126&sessionid=1685618763#rd) (X)
-* **标定？** 现在似乎还没用上 -> [一文理清标定中的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486325&idx=1&sn=19819c6d26b6792f0bcc0fe1b0fab9a2&chksm=fbcb7211ccbcfb07c16177a3cb938e5d9db6ef44eb07b9d3d6e91a315ed146b1e6c1150944f3&scene=126&sessionid=1685622515#rd) (X)
-* [干货 | 欧拉角、四元数？晕头转向的空间姿态表示法(上篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486211&idx=1&sn=c6ef408285035a041b23acf276414b38&chksm=fbcb7267ccbcfb71d548f734d5290ef141f254591bc62ea7aa02c9bbe41d99c748325fe2e243&scene=126&sessionid=1685622531#rd) (X)
-* [干货 | 欧拉角，四元数？晕头转向的空间姿态表示法(下篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486284&idx=1&sn=34ff91b951ebfe4f21ce9e4f511bfe3e&chksm=fbcb7228ccbcfb3e55b4a2b4de89a166e0467b1358a1030f15949cf1d97baa83a67e64cd0fa1&scene=126&sessionid=1685622515#rd) (X)
-* [干货 | 位置角度平移旋转 “乱七八糟”的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485768&idx=1&sn=13a92a0f9d1a7266f2cc6449bf6002eb&chksm=fbcb702cccbcf93a03feb15b98f3474b5ea70e2129cabbce5e57f3e0152c7ae26da6b1ab0c9c&scene=126&sessionid=1685622578#rd) (X)
-* [ROS TF添加一个坐标系](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247513185&idx=2&sn=1c18b7966416278ca33845cfde0c95fc&chksm=fbc8cd05ccbf44132dfd8efd34b6981b34e55110968fa781e182b0c42be6773caa1eb0c51e93&scene=126&sessionid=1685622214#rd) (X)
-* [ROS技术点滴 —— tf坐标变换库](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485865&idx=1&sn=1be2771b05ee1db1becbf0b5880be06f&chksm=fbcb70cdccbcf9dbf702b7e48c9abc19c8822c976e2683c3656c235b1f4ca6c985f36463bae5&scene=126&sessionid=1685622683#rd) (X)
-* [ROS TF2-通过tf2_ros::MessageFilter 将世界坐标系下的点转为期望坐标系下的点](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514456&idx=1&sn=a8319e8e282bfe85af37340727887ecd&chksm=fbc8c03cccbf492a457046270df76602d5a7c0fa52f25f86be8168a406c93d913d8e21864d84&scene=126&sessionid=1685622173#rd) (X)
-* [TF2 坐标变换-监听实例](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514325&idx=1&sn=6f5c78fd846d7307440200216e047879&chksm=fbc8c1b1ccbf48a7b5fd679f09318acc9f0550db81cb6ebc94d67136b243ffe362a31c17c84b&scene=126&sessionid=1685622173#rd) (X)
+* [一文详解自动驾驶中的时空坐标系](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247541443&idx=4&sn=159f600d3e171e497f842d4b8c8c13f5&chksm=ceb80f0af9cf861c3733fea58444165a23150a88593ebdf826fc709dbe4a7458a405b475e93c&scene=126&sessionid=1685618763#rd) &#x2716;
+* **标定？** 现在似乎还没用上 -> [一文理清标定中的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486325&idx=1&sn=19819c6d26b6792f0bcc0fe1b0fab9a2&chksm=fbcb7211ccbcfb07c16177a3cb938e5d9db6ef44eb07b9d3d6e91a315ed146b1e6c1150944f3&scene=126&sessionid=1685622515#rd) &#x2716;
+* [干货 | 欧拉角、四元数？晕头转向的空间姿态表示法(上篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486211&idx=1&sn=c6ef408285035a041b23acf276414b38&chksm=fbcb7267ccbcfb71d548f734d5290ef141f254591bc62ea7aa02c9bbe41d99c748325fe2e243&scene=126&sessionid=1685622531#rd) &#x2716;
+* [干货 | 欧拉角，四元数？晕头转向的空间姿态表示法(下篇)](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247486284&idx=1&sn=34ff91b951ebfe4f21ce9e4f511bfe3e&chksm=fbcb7228ccbcfb3e55b4a2b4de89a166e0467b1358a1030f15949cf1d97baa83a67e64cd0fa1&scene=126&sessionid=1685622515#rd) &#x2716;
+* [干货 | 位置角度平移旋转 “乱七八糟”的坐标变换](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485768&idx=1&sn=13a92a0f9d1a7266f2cc6449bf6002eb&chksm=fbcb702cccbcf93a03feb15b98f3474b5ea70e2129cabbce5e57f3e0152c7ae26da6b1ab0c9c&scene=126&sessionid=1685622578#rd) &#x2716;
+* [ROS TF添加一个坐标系](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247513185&idx=2&sn=1c18b7966416278ca33845cfde0c95fc&chksm=fbc8cd05ccbf44132dfd8efd34b6981b34e55110968fa781e182b0c42be6773caa1eb0c51e93&scene=126&sessionid=1685622214#rd) &#x2716;
+* [ROS技术点滴 —— tf坐标变换库](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247485865&idx=1&sn=1be2771b05ee1db1becbf0b5880be06f&chksm=fbcb70cdccbcf9dbf702b7e48c9abc19c8822c976e2683c3656c235b1f4ca6c985f36463bae5&scene=126&sessionid=1685622683#rd) &#x2716;
+* [ROS TF2-通过tf2_ros::MessageFilter 将世界坐标系下的点转为期望坐标系下的点](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514456&idx=1&sn=a8319e8e282bfe85af37340727887ecd&chksm=fbc8c03cccbf492a457046270df76602d5a7c0fa52f25f86be8168a406c93d913d8e21864d84&scene=126&sessionid=1685622173#rd) &#x2716;
+* [TF2 坐标变换-监听实例](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514325&idx=1&sn=6f5c78fd846d7307440200216e047879&chksm=fbc8c1b1ccbf48a7b5fd679f09318acc9f0550db81cb6ebc94d67136b243ffe362a31c17c84b&scene=126&sessionid=1685622173#rd) &#x2716;
 
 ---
 
@@ -155,7 +155,7 @@
 
 * [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://zhuanlan.zhihu.com/p/260707853) ---> [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
 * [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd)
-* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) (X)
+* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) &#x2716;
 
 ---
 
