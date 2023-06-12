@@ -175,6 +175,15 @@
 
 * [贝叶斯优化(原理+代码解读)](https://zhuanlan.zhihu.com/p/390373572)
 
+#### 课程
+
+* [自动驾驶汽车 专项课程(多伦多大学)](https://www.coursera.org/specializations/self-driving-cars?#enroll)   
+	主要看的是 Motion Planning for Self-Driving Cars 这章 以及 Introduction to Self-Dring Cars 中的 Dynamic Modeling(第四周内容) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6))
+
+### 视频
+
+* [无人驾驶系列知识入门到提高](https://www.bilibili.com/video/BV137411E7oC?p=10&vd_source=c68460d92fb2b166884357ad8c98de03) ---> 只看了 路径规划部分 内容比较基础(时间比较久了 质量也一般 感觉还是国外的好一点 2020年的) 有知识前提的观看更好一点 `up主`的主页有其他内容
+
 ### 其他
 
 * [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人喜欢 github wiki
