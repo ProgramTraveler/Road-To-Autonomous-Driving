@@ -1,6 +1,6 @@
 # 自动驾驶之路
 
-## [wiki中的笔记](https://github.com/ProgramTraveler/github-wiki)
+## [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki)
 
 ## 技术栈
 
