@@ -43,7 +43,7 @@
 
 ### 初入 Apollo 
 
-#### apollo 的相关指南
+#### apollo 相关指南
 [如何入手学习百度Apollo无人驾驶](https://www.zhihu.com/question/358869380)  
 [Apollo入门与探索](https://apollo.baidu.com/community/column/2)  
 [cyber入门与探索](https://apollo.baidu.com/community/column/3)  
@@ -178,7 +178,9 @@
 #### 课程
 
 * [自动驾驶汽车 专项课程(多伦多大学)](https://www.coursera.org/specializations/self-driving-cars?#enroll)   
-	主要看的是 Motion Planning for Self-Driving Cars 这章 ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Motion-Planning-for-Self-Driving-Cars) 以及 Introduction to Self-Dring Cars 中的 Dynamic Modeling(第四周内容) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Introduction-to-Self-Driving-Cars)
+	主要看的是 Motion Planning for Self-Driving Cars 这章 ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Motion-Planning-for-Self-Driving-Cars)   
+	以及 Introduction to Self-Dring Cars 中的 Dynamic Modeling(第四周内容) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Introduction-to-Self-Driving-Cars)  
+	**有的视频并没有翻译 生肉啃起来有点难受 有些翻译的可能有点问题**
 
 ### 视频
 
