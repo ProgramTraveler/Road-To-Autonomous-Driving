@@ -189,10 +189,22 @@
 
 ### 其他
 
-* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人喜欢 github 的 wiki + typora
+* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人还是喜欢 github 的 wiki + typora
 * [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
 
 ---
+
+## 筑基期
+
+### 专利
+
+* [专利查询网站](www2.soopat.com/Home/)
+* [佰腾](https://www.baiten.cn/)
+* 参考的一些专利文章在 patent 文件中
+* [如何写专利？](https://www.zhihu.com/question/21066904)
+* 我觉得回答不错的
+* [如何写专利？-海绵叔叔的回答](https://www.zhihu.com/question/21066904/answer/140745693)
+* [如何写专利？-说 明 书(撰写示例)---机械类专利适用](https://www.zhihu.com/question/21066904/answer/792229301)
 
 ## 待看
 
