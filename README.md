@@ -129,6 +129,7 @@
 * [运动规划系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MTIyMjQwNQ==&action=getalbum&album_id=2236876593568858115&scene=173&from_msgid=2247483715&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3(%E5%85%A8%E5%B1%80%E8%A7%84%E5%88%92%E3%80%81%E8%A1%8C%E4%B8%BA%E5%86%B3%E7%AD%96%E3%80%81%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92))
 * [无人驾驶路径规划（三）局部路径规划-Frenet坐标系下的动态轨迹规划](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573290&idx=1&sn=17ab567a8748c61e7dd05d60df803dce&chksm=fbc9a64eccbe2f58c260d345c6ddcfa078daa27d71c5f0dfb72050bde114e5dc968aed71695c&scene=126&sessionid=1685621317#rd) ---> [原文链接(有些图片失效了)](https://www.guyuehome.com/40491) ---> 没有什么参考价值 公式都是贴图
+* * [从一踏上自动驾驶上下求索之路（五）——规划](https://zhuanlan.zhihu.com/p/585825996) ---> 都是大白话 基础的东西
 
 #### 规划算法
 
@@ -155,7 +156,7 @@
 
 * [自动驾驶决策控制及运动规划最详细最接地气综述(2022年)](https://zhuanlan.zhihu.com/p/260707853) ---> [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
 * [综述-深度强化学习在自动驾驶中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd)
-* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) ---> 2016 年的一篇综述 其中内容包含较多 主要还是关注的规划部分 ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E7%BB%BC%E8%BF%B0_%E5%9F%8E%E5%B8%82%E9%81%93%E8%B7%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E8%BE%86%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%8A%80%E6%9C%AF)
+* [综述|城市道路自动驾驶车辆规划与控制技术](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) ---> 2016 年的一篇综述 其中内容包含较多 主要还是关注的规划部分 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E7%BB%BC%E8%BF%B0_%E5%9F%8E%E5%B8%82%E9%81%93%E8%B7%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E8%BE%86%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%8A%80%E6%9C%AF)
 
 ---
 
@@ -179,7 +180,7 @@
 
 * [自动驾驶汽车 专项课程(多伦多大学)](https://www.coursera.org/specializations/self-driving-cars?#enroll)   
 	主要看的是 Motion Planning for Self-Driving Cars 这章 ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Motion-Planning-for-Self-Driving-Cars)   
-	以及 Introduction to Self-Dring Cars 中的 Dynamic Modeling(第四周内容) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Introduction-to-Self-Driving-Cars)  
+	以及 Introduction to Self-Dring Cars 中的 Dynamic Modeling(第四周内容) [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Introduction-to-Self-Driving-Cars)  
 	**有的视频并没有翻译 生肉啃起来有点难受 有些翻译的可能有点问题**
 
 ### 视频
@@ -191,6 +192,7 @@
 
 * [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人还是喜欢 github 的 wiki + typora
 * [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
+* [最值得加入的173家国企名单！](https://mp.weixin.qq.com/s/ZDgNQSD5VoXklpJJ1nTZuQ)
 
 ---
 
@@ -217,5 +219,7 @@
 * [【自动驾驶】运动规划丨速度规划丨自动驾驶速度重规划方法](https://mp.weixin.qq.com/s/-yb7OD1Sz64CcIOxLrnXwA)
 * [路径规划新方案！基于势场的自动驾驶车辆交互速度优化](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247548909&idx=4&sn=fee4a86180c390e1a99f3bb7459783c7&chksm=ceb81224f9cf9b320a48d2a9ad8b5a180e398d32e92613b23dd608ff256cd55275c1aa7bf58e&scene=126&sessionid=1687848933#rd)
 * [自动驾驶的里程碑 | 感知、预测、规划一站汇总，都在这里了！](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247549322&idx=1&sn=6b2e1441e74d2652bb9b55d5803d0825&chksm=ceb82c43f9cfa5557ee22eaac0a0b4b30a7ad8fc70d65b64122af986e8ee8694ddffdfe50fd8&scene=126&sessionid=1688003811#rd)
+* [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://mp.weixin.qq.com/s/tYU1F88QAKYEihun7drP3w)
+* [经验之谈，轨迹预测真正重要的是什么？](https://mp.weixin.qq.com/s/pkoBNCHW02ymhVg-VfvV4w)
 
 ---
