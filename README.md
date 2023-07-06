@@ -2,7 +2,7 @@
 
 ## [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki)
 
-## 技术栈
+### 技术栈
 
 <img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 70%">
 
@@ -14,10 +14,11 @@
 
 ### 书籍
 
-* [《动手学深度学习》](https://book.douban.com/subject/33450010/) &#x2714;
-* [《无人驾驶原理与实践》](https://book.douban.com/subject/30494269/)
+* [《动手学深度学习》](https://book.douban.com/subject/33450010/) &#x2714; ---> (练气期阶段完成阅读 主要是计算机视觉及其前导知识)
+* [《无人驾驶原理与实践》](https://book.douban.com/subject/30494269/) ---> (练气期阶段完成了规划相关的阅读 在阅读强化学习部分感觉需要补一下概率论以及强化学习的基础 筑基期阶段完成)
 * [《机器学习导论》](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) &#x2716;
 * [《机器学习》](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) &#x2716;
+* [统计学习方法（第2版）](http://item.kongfz.com/book/64858435.html/) &#x2716;
 
 ---
 
@@ -36,6 +37,15 @@
 
 * [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
 * [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [(高清重制)麻省理工学院 MIT 18.06 线性代数](https://www.bilibili.com/video/BV1iU4y1K7oZ/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+
+---
+
+### 其他内容
+
+* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人还是喜欢 github 的 wiki + typora
+* [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
+* [最值得加入的173家国企名单！](https://mp.weixin.qq.com/s/ZDgNQSD5VoXklpJJ1nTZuQ)
 
 ---
 
@@ -129,7 +139,7 @@
 * [运动规划系列合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MTIyMjQwNQ==&action=getalbum&album_id=2236876593568858115&scene=173&from_msgid=2247483715&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [自动驾驶决策规划技术详解(全局规划/行为决策/运动规划)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247534999&idx=3&sn=74fee34efb73c05bb5014533562bf94a&chksm=ceb8645ef9cfed48314915c5369ec248d54e3d7048028afaddef6a8f02efd202812545a5cc6b&scene=126&sessionid=1685618895#rd) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3(%E5%85%A8%E5%B1%80%E8%A7%84%E5%88%92%E3%80%81%E8%A1%8C%E4%B8%BA%E5%86%B3%E7%AD%96%E3%80%81%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92))
 * [无人驾驶路径规划（三）局部路径规划-Frenet坐标系下的动态轨迹规划](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573290&idx=1&sn=17ab567a8748c61e7dd05d60df803dce&chksm=fbc9a64eccbe2f58c260d345c6ddcfa078daa27d71c5f0dfb72050bde114e5dc968aed71695c&scene=126&sessionid=1685621317#rd) ---> [原文链接(有些图片失效了)](https://www.guyuehome.com/40491) ---> 没有什么参考价值 公式都是贴图
-* * [从一踏上自动驾驶上下求索之路（五）——规划](https://zhuanlan.zhihu.com/p/585825996) ---> 都是大白话 基础的东西
+* [从一踏上自动驾驶上下求索之路（五）——规划](https://zhuanlan.zhihu.com/p/585825996) ---> 都是大白话 基础的东西
 
 #### 规划算法
 
@@ -188,17 +198,24 @@
 * [无人驾驶系列知识入门到提高](https://www.bilibili.com/video/BV137411E7oC?p=10&vd_source=c68460d92fb2b166884357ad8c98de03)  
 	只看了 路径规划部分 内容比较基础(时间比较久了 质量也一般 感觉还是国外的好一点 2020年的) 有知识前提的观看更好一点 `up主`的主页有其他内容
 
-### 其他
-
-* [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人还是喜欢 github 的 wiki + typora
-* [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
-* [最值得加入的173家国企名单！](https://mp.weixin.qq.com/s/ZDgNQSD5VoXklpJJ1nTZuQ)
-
 ---
 
 ## 筑基期
 
-### 专利
+### 整体知识
+
+* 方向
+
+<img src="规划控制.png" alt="img" style="zoom: 70%">
+
+* 自动驾驶之心规划控制理论课程大纲(2023年)
+
+<img src="自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 100%">
+
+* 大部分内容在练气期时已经了解的差不多了 但是感觉还是差点意思
+* 想参考一下`自动驾驶之心的课程大纲`来查漏补缺
+
+### 专利(实习公司布置的任务)
 
 * [专利查询网站](www2.soopat.com/Home/)
 * [佰腾](https://www.baiten.cn/)
@@ -207,6 +224,23 @@
 * 我觉得回答不错的
 * [如何写专利？-海绵叔叔的回答](https://www.zhihu.com/question/21066904/answer/140745693)
 * [如何写专利？-说 明 书(撰写示例)---机械类专利适用](https://www.zhihu.com/question/21066904/answer/792229301)
+
+### 概率论
+
+* [吃透《统计学习方法》](https://www.bilibili.com/video/BV1tZ4y1U7ot/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+
+### 机器学习
+
+* [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?vd_source=c68460d92fb2b166884357ad8c98de03)
+* [浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+
+### 深度学习
+
+* [2022吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [深度学习超全实战项目合集](https://www.bilibili.com/video/BV1ut4y1S7gP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+
+---
 
 ## 待看
 
