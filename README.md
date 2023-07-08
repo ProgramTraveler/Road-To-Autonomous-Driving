@@ -22,25 +22,6 @@
 
 ---
 
-### 视频
-
-#### 强化学习
-
-* [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
-* [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu) &#x2716;
-
-#### 最优化理论
-
-* [最优化理论](https://space.bilibili.com/507629580) &#x2716;
-
-#### 矩阵理论
-
-* [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
-* [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
-* [(高清重制)麻省理工学院 MIT 18.06 线性代数](https://www.bilibili.com/video/BV1iU4y1K7oZ/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
-
----
-
 ### 其他内容
 
 * [程序员如何优雅记笔记](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247503863&idx=5&sn=59d2177a426068b20ae738e72d812334&chksm=ceb8e23ef9cf6b28604fada9a48360e7e39b946350d0952cbc4ccd4f5c032c57ebc525775482&scene=126&sessionid=1685619532#rd) ---> 个人还是喜欢 github 的 wiki + typora
@@ -206,18 +187,18 @@
 
 * 方向
 
-<img src="规划控制.png" alt="img" style="zoom: 70%">
+<img src="规划控制.png" alt="img" style="zoom: 50%">
 
 * 自动驾驶之心规划控制理论课程大纲(2023年)
 
-<img src="自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 100%">
+<img src="自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 70%">
 
 * 大部分内容在练气期时已经了解的差不多了 但是感觉还是差点意思
 * 想参考一下`自动驾驶之心的课程大纲`来查漏补缺
 
 ### 专利(实习公司布置的任务)
 
-* [专利查询网站](www2.soopat.com/Home/)
+* [专利查询网站](http://www2.soopat.com/Home/Index)
 * [佰腾](https://www.baiten.cn/)
 * 参考的一些专利文章在 patent 文件中
 * [如何写专利？](https://www.zhihu.com/question/21066904)
@@ -227,18 +208,38 @@
 
 ### 概率论
 
-* [吃透《统计学习方法》](https://www.bilibili.com/video/BV1tZ4y1U7ot/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [吃透《统计学习方法》](https://www.bilibili.com/video/BV1tZ4y1U7ot/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
 
 ### 机器学习
 
-* [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?vd_source=c68460d92fb2b166884357ad8c98de03)
-* [浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
 
 ### 深度学习
 
-* [2022吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [深度学习超全实战项目合集](https://www.bilibili.com/video/BV1ut4y1S7gP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [2022吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [深度学习超全实战项目合集](https://www.bilibili.com/video/BV1ut4y1S7gP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+
+### 强化学习
+
+* [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu) &#x2716;
+
+### 最优化理论
+
+* [最优化理论](https://space.bilibili.com/507629580) &#x2716;
+
+### 矩阵理论
+
+* [【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+* [(高清重制)麻省理工学院 MIT 18.06 线性代数](https://www.bilibili.com/video/BV1iU4y1K7oZ/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
+
+### 文章
+
+* [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
+
 
 ---
 
@@ -253,7 +254,9 @@
 * [【自动驾驶】运动规划丨速度规划丨自动驾驶速度重规划方法](https://mp.weixin.qq.com/s/-yb7OD1Sz64CcIOxLrnXwA)
 * [路径规划新方案！基于势场的自动驾驶车辆交互速度优化](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247548909&idx=4&sn=fee4a86180c390e1a99f3bb7459783c7&chksm=ceb81224f9cf9b320a48d2a9ad8b5a180e398d32e92613b23dd608ff256cd55275c1aa7bf58e&scene=126&sessionid=1687848933#rd)
 * [自动驾驶的里程碑 | 感知、预测、规划一站汇总，都在这里了！](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247549322&idx=1&sn=6b2e1441e74d2652bb9b55d5803d0825&chksm=ceb82c43f9cfa5557ee22eaac0a0b4b30a7ad8fc70d65b64122af986e8ee8694ddffdfe50fd8&scene=126&sessionid=1688003811#rd)
-* [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://mp.weixin.qq.com/s/tYU1F88QAKYEihun7drP3w)
 * [经验之谈，轨迹预测真正重要的是什么？](https://mp.weixin.qq.com/s/pkoBNCHW02ymhVg-VfvV4w)
+* [【深度学习】神经网络基础知识总结](https://mp.weixin.qq.com/s/NWuSgmdqsGYRve4WqhixTw)
+* [13张动图快速理解马尔科夫链、PCA、贝叶斯！](https://mp.weixin.qq.com/s/HLu3uTDq3rVGzU4j_Rv15A)
+* [详解概率论基础: 从贝叶斯开始](https://mp.weixin.qq.com/s/AoascruwvwhYbxt1sJ7sNg)
 
 ---
