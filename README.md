@@ -240,7 +240,7 @@
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
 * [汇总！自动驾驶路径规划中的障碍物处理方法总结](https://zhuanlan.zhihu.com/p/635971229) ---> 相关文献中 障碍物约束处理的常用处理方法
-* [何为轨迹预测？我们为什么需要轨迹预测？](https://zhuanlan.zhihu.com/p/365881810)
+* [何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述)](https://zhuanlan.zhihu.com/p/365881810) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
 
 ---
 
