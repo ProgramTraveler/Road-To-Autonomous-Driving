@@ -140,6 +140,7 @@
 * [规划控制|`Hybrid A*`算法仿真实践](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247523450&idx=3&sn=dddcc5a5b9103553347cab9c2edeaa32&chksm=ceb8b1b3f9cf38a5d7bebeeb2f9c96545910d091b62e8e1178bf9ec069dc7d607e4d9bbed1fa&scene=126&sessionid=1685619187#rd)
 * [规划控制|详解自动驾驶轨迹规划`Hybrid A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247530419&idx=2&sn=45f1201efe4fbf51415df01e5c2b7377&chksm=ceb85a7af9cfd36c6536a313558de3346ee0e5b55e3a49f1e3d3ce5cad91bd81595503b44bd2&scene=126&sessionid=1685619036#rd)
 * [`混合A*算法`研究](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573889&idx=1&sn=4ce63d439ef186a119c5909021c49b06&chksm=fbc9d8e5ccbe51f3c8c49ef2fb7e9559c6eaf75778a69107b6f930f0ab3b8725cde90166bf1f&scene=126&sessionid=1685621296#rd)
+* [自动驾驶轨迹规划之hybrid A\*算法](https://mp.weixin.qq.com/s/DqhotGszG-ayBUmc_dMo8Q) ---> [原文地址](https://blog.csdn.net/weixin_65089713/article/details/124060155)
 
 ---
 
@@ -195,6 +196,7 @@
 
 * 大部分内容在练气期时已经了解的差不多了 但是感觉还是差点意思
 * 想参考一下`自动驾驶之心的课程大纲`来查漏补缺
+* 控制算法？
 
 ### 专利(实习公司布置的任务)
 
@@ -236,17 +238,23 @@
 * [新MIT 线性代数|机器学习（中英机翻字幕）18.065 by Gilbert Strang](https://www.bilibili.com/video/BV1a7411M7wH/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
 * [(高清重制)麻省理工学院 MIT 18.06 线性代数](https://www.bilibili.com/video/BV1iU4y1K7oZ/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
 
+### 论文
+
+* [轨迹预测与运动预测相关paper汇总](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)
+
 ### 文章
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
 * [汇总！自动驾驶路径规划中的障碍物处理方法总结](https://zhuanlan.zhihu.com/p/635971229) ---> 相关文献中 障碍物约束处理的常用处理方法
 * [何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述)](https://zhuanlan.zhihu.com/p/365881810) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
+* [最新综述 | 自动驾驶决策都有哪些数据集？一文尽览](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd)
 
 ---
 
 ## 待看
 
 * 一些文章 还没来得及看 先记录在这里
+
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
 * [Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现](https://www.guyuehome.com/34181)
@@ -259,10 +267,17 @@
 * [13张动图快速理解马尔科夫链、PCA、贝叶斯！](https://mp.weixin.qq.com/s/HLu3uTDq3rVGzU4j_Rv15A)
 * [详解概率论基础: 从贝叶斯开始](https://mp.weixin.qq.com/s/AoascruwvwhYbxt1sJ7sNg)
 * [关于motion and path planning有哪些研究方向及难点？](https://zhuanlan.zhihu.com/p/642483485)
-* [711页的黄海广老师的《机器学习》课件合集.pdf](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570922&idx=1&sn=bcee42b8dcbd88f752c5155864146ef7 &chksm=fb3b70e1cc4cf9f7427107b618907a63f1da067bdfd9a0559ebaec3c62e7872ee6d9004a91c7&scene=126&sessionid=1689488058#rd)
-* [最新综述 | 自动驾驶决策都有哪些数据集？一文尽览](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd)
 * [【机器学习】机器学习通用工作流程!](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510651&idx=2&sn=cbb394714b55bdd4d84939cef8f159f3&chksm=970721c7a070a8d19ea7e3cd1ab0a9bf18526ee92cdcc64da29305dee06dd934fe6ca669cf3f&scene=126&sessionid=1689646596#rd)
 * [图神经网络的数学原理总结](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=1&sn=ab1eb8720f53b58c441a29c033d29db5&chksm=ceee912bf999183d92e8252b271c0872b07086d93ea51537c6b2def5ac7a11d5eea3e5acfa9c&scene=126&sessionid=1689670185#rd)
 * [三张图读懂机器学习：基本概念、五大流派与九种常见算法](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=2&sn=87afa8e60d542a874eb255b00504dff9&chksm=ceee912bf999183da1c1f5db17684e4c42eb9ca6c6597e1c10615470cf57ec349af106ec8066&scene=126&sessionid=1689670185#rd)
+* [彻底理解傅里叶变换！](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506360&idx=1&sn=f627a3509d25b86010c6bd8bb62fe95c&chksm=ceee91e1f99918f73cab0339e42b01cd8f2ee30f765f994c39f6dbd47dfe69674ac2fcaeb801&scene=126&sessionid=1689829402#rd)
+* [神经网络与傅立叶变换到底有没有关系？](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506400&idx=1&sn=db31d7093f9fc733a10ea5d9f2028dd5&chksm=ceee91b9f99918af4bae9ea6d915f8de7e05c621a58ca0fcd42bb520ef74f35e31fdc3e01d28&scene=126&sessionid=1689829402#rd)
+* [深度学习检测小目标常用方法](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=3&sn=52728853eaf75eccf0f00e98b0872eb2&chksm=cfa57a79f8d2f36f5c251e573522ce3a32d9f7a6d8a8cb1ef80fffd880e86e310ccb8db5501d&scene=126&sessionid=1689829417#rd)
+* [机器学习中的最优化算法（全面总结）](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=1&sn=9845ab9f26d5a22db65244ee7e277a37&chksm=cfa57a79f8d2f36f2c2191bfda0f69effc4d90a8b1a9a9754b7d0e347a5a6765ac842ac884b2&scene=126&sessionid=1689829417#rd)
+* [自动帮你完成物体检测标注？这个工具你必须了解一下](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=1&sn=7d8800c7fbb5cbcad7d2a1132991afdf&chksm=fb3b7323cc4cfa35dc2cc6e23ec58098b4da393fa75d28ddfa70fc39404a3cbc8d26374b9ca9&scene=126&sessionid=1689829439#rd)
+* [【Math】常见的几种最优化方法](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=2&sn=a69325e5950109b8d9c3b5e1372bec87&chksm=fb3b7323cc4cfa35685024fdb810f1d0fbb1f5d9646ee893ecf12e91a4878505c0cf7bef6c6c&scene=126&sessionid=1689829439#rd)
+* [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg)
+* [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506515&idx=1&sn=844a0761b8a506a091a132c8de890912&chksm=ceee920af9991b1ce0ec96aaf4283f9eae26b136e6ccbe14b74a5dc6a94b34d4a55651569442&scene=126&sessionid=1689923381#rd)
+* [深度学习必掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gngNltgQESnNmAZLNES2CQ)
 
 ---
