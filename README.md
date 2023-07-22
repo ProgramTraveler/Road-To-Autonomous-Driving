@@ -74,6 +74,7 @@
 
 * 后面可能是走规划的路线 所以先看一下规划相关的东西  
 	[apollo介绍之planning模块(四)](https://zhuanlan.zhihu.com/p/61982682)
+
 ---
 
 ### ROS
@@ -168,7 +169,7 @@
 
 * [贝叶斯优化(原理+代码解读)](https://zhuanlan.zhihu.com/p/390373572)
 
-#### 课程
+#### 视频课程
 
 * [自动驾驶汽车 专项课程(多伦多大学)](https://www.coursera.org/specializations/self-driving-cars?#enroll)   
 	主要看的是 Motion Planning for Self-Driving Cars 这章 ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B1%BD%E8%BD%A6-%E4%B8%93%E9%A1%B9%E8%AF%BE%E7%A8%8B(%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6)-Motion-Planning-for-Self-Driving-Cars)   
@@ -194,9 +195,26 @@
 
 <img src="自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 70%">
 
+### 目标
+
+* 对网上一些高赞回答(主要还是知乎)进行一些浏览 总结了回答的主要内容 针对 自动驾驶决策、规划、控制方向 ---> [传送门](https://www.zhihu.com/question/351757965/answer/864850362)
 * 大部分内容在练气期时已经了解的差不多了 但是感觉还是差点意思
 * 想参考一下`自动驾驶之心的课程大纲`来查漏补缺
+* c ++ 编程
 * 控制算法？
+* 基础的规控算法(A\*, RRT\*, Lattice based, MPC, POMDP, PID, LQR等)
+* 参数化曲线构造(多项式、贝塞尔、样条曲线)
+* 数值优化常用方法
+* 常用算法实现(一阶低通滤波、pid、卡尔曼)
+* 理解 lqr mpc 原理 知道缺点和使用条件 针对规划 理解基本的线性拟合
+* ros
+* 状态机、决策系统
+* 掌握 AI 决策规划 这里面分有监督学习和强化学习
+* apllo 代码
+
+### c ++ 面经
+
+* [CppMaster](https://github.com/ProgramTraveler/CppMaster)
 
 ### 专利(实习公司布置的任务)
 
@@ -241,6 +259,24 @@
 ### 论文
 
 * [轨迹预测与运动预测相关paper汇总](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)
+
+### apollo 视频课程
+
+* 最初的时候也看了一点 apollo 的视频课 但浅尝辄止
+* [Apollo b站首页](https://space.bilibili.com/631671239/channel/series)
+* [Apollo 视频课主页](https://apollo.baidu.com/community/online-course)
+* [自动驾驶新人之旅](https://apollo.baidu.com/community/online-course/11) ---> 这个入门级的 对安装环境和技术介绍
+* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分
+* [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo 代码模块的讲解 看的是规划模块和控制模块部分 &#x2716;
+* [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 &#x2716;
+* [Apollo 星火计划之 PnC 专项](https://apollo.baidu.com/community/online-course/12) ---> 自动驾驶决策规划技术 &#x2716;
+
+
+### 专栏
+
+* [无人驾驶技术系统](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482)
+* [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482)
+* [Apollo自动驾驶预测规划控制算法](https://blog.csdn.net/qq_41667348/category_11789612.html)
 
 ### 文章
 
