@@ -263,10 +263,11 @@
 ### apollo 视频课程
 
 * 最初的时候也看了一点 apollo 的视频课 但浅尝辄止
+* 准备扫一下盲
 * [Apollo b站首页](https://space.bilibili.com/631671239/channel/series)
 * [Apollo 视频课主页](https://apollo.baidu.com/community/online-course)
 * [自动驾驶新人之旅](https://apollo.baidu.com/community/online-course/11) ---> 这个入门级的 对安装环境和技术介绍
-* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分
+* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分 ps:每个视频就两分钟左右 还不会自动跳到下一集
 * [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo 代码模块的讲解 看的是规划模块和控制模块部分 &#x2716;
 * [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 &#x2716;
 * [Apollo 星火计划之 PnC 专项](https://apollo.baidu.com/community/online-course/12) ---> 自动驾驶决策规划技术 &#x2716;
@@ -315,5 +316,7 @@
 * [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg)
 * [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506515&idx=1&sn=844a0761b8a506a091a132c8de890912&chksm=ceee920af9991b1ce0ec96aaf4283f9eae26b136e6ccbe14b74a5dc6a94b34d4a55651569442&scene=126&sessionid=1689923381#rd)
 * [深度学习必掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gngNltgQESnNmAZLNES2CQ)
+* [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/4gq5bJkjLYbYq41XPeOSOg)
+* [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/Yb83YNU-hiM62kIoeGxxgg)
 
 ---
