@@ -185,6 +185,8 @@
 
 ## 筑基期
 
+* 规划控制不分家
+
 ### 整体知识
 
 * 方向
@@ -260,6 +262,10 @@
 
 * [轨迹预测与运动预测相关paper汇总](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)
 
+### apollo 学习笔记
+
+* [apollo 学习笔记](https://github.com/daohu527/dig-into-apollo)
+
 ### apollo 视频课程
 
 * 最初的时候也看了一点 apollo 的视频课 但浅尝辄止
@@ -267,8 +273,8 @@
 * [Apollo b站首页](https://space.bilibili.com/631671239/channel/series)
 * [Apollo 视频课主页](https://apollo.baidu.com/community/online-course)
 * [自动驾驶新人之旅](https://apollo.baidu.com/community/online-course/11) ---> 这个入门级的 对安装环境和技术介绍
-* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分 ps:每个视频就两分钟左右 还不会自动跳到下一集
-* [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo 代码模块的讲解 看的是规划模块和控制模块部分 &#x2716;
+* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分 ps:每个视频就两分钟左右 还不会自动跳到下一集 算是对之前学到的东西复习一下
+* [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo **代码模块**的讲解 看的是规划模块和控制模块部分
 * [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 &#x2716;
 * [Apollo 星火计划之 PnC 专项](https://apollo.baidu.com/community/online-course/12) ---> 自动驾驶决策规划技术 &#x2716;
 
@@ -318,5 +324,7 @@
 * [深度学习必掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gngNltgQESnNmAZLNES2CQ)
 * [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/4gq5bJkjLYbYq41XPeOSOg)
 * [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/Yb83YNU-hiM62kIoeGxxgg)
+* [【深度学习】入门宝典：浅谈深度神经网络](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd)
+* [最新综述！五大方向逐一梳理半监督目标检测进展](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247554216&idx=2&sn=a0562fa2cd73d7d224a5db47dde8399b&chksm=ceb83961f9cfb077903722b71491e1b435c9a2758452f3ad53161cabcdcb006cffc29b4c6be0&scene=126&sessionid=1690435687#rd)
 
 ---
