@@ -285,12 +285,15 @@
 * [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482)
 * [Apollo自动驾驶预测规划控制算法](https://blog.csdn.net/qq_41667348/category_11789612.html)
 
+### 综述
+
+* [何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述)](https://zhuanlan.zhihu.com/p/365881810) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
+* [最新综述 | 自动驾驶决策都有哪些数据集？一文尽览](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd)
+
 ### 文章
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
 * [汇总！自动驾驶路径规划中的障碍物处理方法总结](https://zhuanlan.zhihu.com/p/635971229) ---> 相关文献中 障碍物约束处理的常用处理方法
-* [何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述)](https://zhuanlan.zhihu.com/p/365881810) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
-* [最新综述 | 自动驾驶决策都有哪些数据集？一文尽览](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd)
 
 ---
 
