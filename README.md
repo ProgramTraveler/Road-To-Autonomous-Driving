@@ -331,5 +331,18 @@
 * [【深度学习】入门宝典：浅谈深度神经网络](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd)
 * [最新综述！五大方向逐一梳理半监督目标检测进展](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247554216&idx=2&sn=a0562fa2cd73d7d224a5db47dde8399b&chksm=ceb83961f9cfb077903722b71491e1b435c9a2758452f3ad53161cabcdcb006cffc29b4c6be0&scene=126&sessionid=1690435687#rd)
 * [【机器学习】机器学习的几种超参数调试方法（附代码参考）](https://mp.weixin.qq.com/s/E5HY4YhMbM8rISu5uwFuzA)
+* [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
+* [实际工程项目中是怎么用卡尔曼滤波的?](https://mp.weixin.qq.com/s/nHmylhA6_x8KiO3J-GQj6w)
+* [决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s/jHMyHryf7z-jWF3Go4GFjQ)
+* [为什么今年PNC那么香？端到端自动驾驶未来可期！](https://mp.weixin.qq.com/s/xSjbaKiHCMpJlYBTMapskw)
+* [轻松掌握MMDetection整体构建流程](https://mp.weixin.qq.com/s/xUvVBsYoC83VnlEzKhNQtw)
+* [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/UUkfqCe7RbTkElaxIuXtWA)
+* [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/jCbPHsAen5IUB6MbBHf6rg)
+* [收藏了！Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
+* [【机器学习】机器学习的通用工作流程](https://mp.weixin.qq.com/s/Zs5vl1RjN6pZsp9nSgCtpw)
+* [复旦学子《可解释机器学习》中文版火了，完整PDF开发下载！](https://mp.weixin.qq.com/s/wjIUssbPqQd32r_NcV02Lw)
+* [《图解线性代数》中文版.PDF](https://mp.weixin.qq.com/s/O-EVo5ffdu3n7TF1qsN2OA)
+* [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
+* [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
 
 ---
