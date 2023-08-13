@@ -291,6 +291,10 @@
 * [何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述)](https://zhuanlan.zhihu.com/p/365881810) ---> [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
 * [最新综述 | 自动驾驶决策都有哪些数据集？一文尽览](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd)
 
+### 代码练习
+
+* [c++ 手撕A\* 路径规划算法](https://www.bilibili.com/video/BV1wj411o74g/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd5d0ae-3603-4bab-8743-9853cb41234f&share_source=WEIXIN&share_tag=s_i&timestamp=1691680668&unique_k=2SBhJ2y&up_id=15496050&vd_source=c68460d92fb2b166884357ad8c98de03)
+
 ### 文章
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
@@ -300,7 +304,7 @@
 
 ## 待看
 
-* 一些文章 还没来得及看 先记录在这里
+* 一些文章或视频 还没来得及看 先记录在这里
 
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
@@ -344,5 +348,8 @@
 * [《图解线性代数》中文版.PDF](https://mp.weixin.qq.com/s/O-EVo5ffdu3n7TF1qsN2OA)
 * [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
 * [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
+* [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [c++ 手撕A\* 路径规划算法](https://www.bilibili.com/video/BV1wj411o74g/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd5d0ae-3603-4bab-8743-9853cb41234f&share_source=WEIXIN&share_tag=s_i&timestamp=1691680668&unique_k=2SBhJ2y&up_id=15496050&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03)
 
 ---
