@@ -274,16 +274,16 @@
 * [Apollo b站首页](https://space.bilibili.com/631671239/channel/series)
 * [Apollo 视频课主页](https://apollo.baidu.com/community/online-course)
 * [自动驾驶新人之旅](https://apollo.baidu.com/community/online-course/11) ---> 这个入门级的 对安装环境和技术介绍
-* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分 ps:每个视频就两分钟左右 还不会自动跳到下一集 算是对之前学到的东西复习一下
-* [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo **代码模块**的讲解 看的是规划模块和控制模块部分
-* [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 &#x2716;
+* [Apollo 自动驾驶入门课程](https://apollo.baidu.com/community/online-course/1) ---> 看的是规划和控制部分 ps:每个视频就两分钟左右 （吐槽不会自动跳到下一集） 算是对之前学到的东西复习一下
+* [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo **代码模块**的讲解 看的是规划模块和控制模块部分 建议带着代码一起看
+* [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 主要是 apollo 结构
 * [Apollo 星火计划之 PnC 专项](https://apollo.baidu.com/community/online-course/12) ---> 自动驾驶决策规划技术 &#x2716;
 
 
 ### 专栏
 
-* [无人驾驶技术系统](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482)
-* [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482)
+* [无人驾驶技术系统](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482) ---> 大部分是公式推导 有仿真的代码测试
+* [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) ---> 质量不知道怎么样（收费的）感觉没必要 毕竟里面的内容随便都能找到
 * [Apollo自动驾驶预测规划控制算法](https://blog.csdn.net/qq_41667348/category_11789612.html)
 
 ### 综述
@@ -345,7 +345,6 @@
 * [收藏了！Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
 * [【机器学习】机器学习的通用工作流程](https://mp.weixin.qq.com/s/Zs5vl1RjN6pZsp9nSgCtpw)
 * [复旦学子《可解释机器学习》中文版火了，完整PDF开发下载！](https://mp.weixin.qq.com/s/wjIUssbPqQd32r_NcV02Lw)
-* [《图解线性代数》中文版.PDF](https://mp.weixin.qq.com/s/O-EVo5ffdu3n7TF1qsN2OA)
 * [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
 * [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
 * [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
@@ -353,5 +352,7 @@
 * [【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [自动驾驶算法实战-视频](https://www.ixigua.com/home/3642002077926135/?source=pgc_author_profile&list_entrance=anyVideo)
+* [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
+* [如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集](https://mp.weixin.qq.com/s/KgkumQWuMYQIlb5aNz6nQw)
 
 ---
