@@ -28,6 +28,9 @@
 * [控制算法手记-先学习系统动力学建模和分析](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552881&idx=1&sn=c1577839346919014b20f7f7571faea3&chksm=fbc87615ccbfff034f76628787f773f25aa19b361c9a53983461566c04870637b6a8531add6d&scene=126&sessionid=1685621665#rd) ---> 无干货 纯介绍
 * [最值得加入的173家国企名单！](https://mp.weixin.qq.com/s/ZDgNQSD5VoXklpJJ1nTZuQ)
 * [2023年自动驾驶求职更新](https://zhuanlan.zhihu.com/p/645641942)
+* [如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集](https://mp.weixin.qq.com/s/KgkumQWuMYQIlb5aNz6nQw)
+* [自动帮你完成物体检测标注？这个工具你必须了解一下](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=1&sn=7d8800c7fbb5cbcad7d2a1132991afdf&chksm=fb3b7323cc4cfa35dc2cc6e23ec58098b4da393fa75d28ddfa70fc39404a3cbc8d26374b9ca9&scene=126&sessionid=1689829439#rd)
+
 
 ---
 
@@ -283,7 +286,7 @@
 ### 专栏
 
 * [无人驾驶技术系统](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482) ---> 大部分是公式推导 有仿真的代码测试
-* [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) ---> 质量不知道怎么样（收费的）感觉没必要 毕竟里面的内容随便都能找到
+* [自动驾驶规划入门（已完结）](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) ---> 质量不知道怎么样（收费的）感觉没必要 里面的内容随便都能找到
 * [Apollo自动驾驶预测规划控制算法](https://blog.csdn.net/qq_41667348/category_11789612.html)
 
 ### 综述
@@ -294,11 +297,13 @@
 ### 代码练习
 
 * [c++ 手撕A\* 路径规划算法](https://www.bilibili.com/video/BV1wj411o74g/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd5d0ae-3603-4bab-8743-9853cb41234f&share_source=WEIXIN&share_tag=s_i&timestamp=1691680668&unique_k=2SBhJ2y&up_id=15496050&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [规划控制代码实战-视频](https://www.ixigua.com/home/3642002077926135/?source=pgc_author_profile&list_entrance=anyVideo)
 
 ### 文章
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
 * [汇总！自动驾驶路径规划中的障碍物处理方法总结](https://zhuanlan.zhihu.com/p/635971229) ---> 相关文献中 障碍物约束处理的常用处理方法
+* [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
 
 ---
 
@@ -325,7 +330,6 @@
 * [神经网络与傅立叶变换到底有没有关系？](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506400&idx=1&sn=db31d7093f9fc733a10ea5d9f2028dd5&chksm=ceee91b9f99918af4bae9ea6d915f8de7e05c621a58ca0fcd42bb520ef74f35e31fdc3e01d28&scene=126&sessionid=1689829402#rd)
 * [深度学习检测小目标常用方法](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=3&sn=52728853eaf75eccf0f00e98b0872eb2&chksm=cfa57a79f8d2f36f5c251e573522ce3a32d9f7a6d8a8cb1ef80fffd880e86e310ccb8db5501d&scene=126&sessionid=1689829417#rd)
 * [机器学习中的最优化算法（全面总结）](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=1&sn=9845ab9f26d5a22db65244ee7e277a37&chksm=cfa57a79f8d2f36f2c2191bfda0f69effc4d90a8b1a9a9754b7d0e347a5a6765ac842ac884b2&scene=126&sessionid=1689829417#rd)
-* [自动帮你完成物体检测标注？这个工具你必须了解一下](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=1&sn=7d8800c7fbb5cbcad7d2a1132991afdf&chksm=fb3b7323cc4cfa35dc2cc6e23ec58098b4da393fa75d28ddfa70fc39404a3cbc8d26374b9ca9&scene=126&sessionid=1689829439#rd)
 * [【Math】常见的几种最优化方法](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=2&sn=a69325e5950109b8d9c3b5e1372bec87&chksm=fb3b7323cc4cfa35685024fdb810f1d0fbb1f5d9646ee893ecf12e91a4878505c0cf7bef6c6c&scene=126&sessionid=1689829439#rd)
 * [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg)
 * [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506515&idx=1&sn=844a0761b8a506a091a132c8de890912&chksm=ceee920af9991b1ce0ec96aaf4283f9eae26b136e6ccbe14b74a5dc6a94b34d4a55651569442&scene=126&sessionid=1689923381#rd)
@@ -335,7 +339,6 @@
 * [【深度学习】入门宝典：浅谈深度神经网络](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd)
 * [最新综述！五大方向逐一梳理半监督目标检测进展](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247554216&idx=2&sn=a0562fa2cd73d7d224a5db47dde8399b&chksm=ceb83961f9cfb077903722b71491e1b435c9a2758452f3ad53161cabcdcb006cffc29b4c6be0&scene=126&sessionid=1690435687#rd)
 * [【机器学习】机器学习的几种超参数调试方法（附代码参考）](https://mp.weixin.qq.com/s/E5HY4YhMbM8rISu5uwFuzA)
-* [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
 * [实际工程项目中是怎么用卡尔曼滤波的?](https://mp.weixin.qq.com/s/nHmylhA6_x8KiO3J-GQj6w)
 * [决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s/jHMyHryf7z-jWF3Go4GFjQ)
 * [为什么今年PNC那么香？端到端自动驾驶未来可期！](https://mp.weixin.qq.com/s/xSjbaKiHCMpJlYBTMapskw)
@@ -348,11 +351,8 @@
 * [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
 * [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
 * [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [c++ 手撕A\* 路径规划算法](https://www.bilibili.com/video/BV1wj411o74g/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd5d0ae-3603-4bab-8743-9853cb41234f&share_source=WEIXIN&share_tag=s_i&timestamp=1691680668&unique_k=2SBhJ2y&up_id=15496050&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [自动驾驶算法实战-视频](https://www.ixigua.com/home/3642002077926135/?source=pgc_author_profile&list_entrance=anyVideo)
 * [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
-* [如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集](https://mp.weixin.qq.com/s/KgkumQWuMYQIlb5aNz6nQw)
 
 ---
