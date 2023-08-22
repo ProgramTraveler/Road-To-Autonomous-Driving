@@ -30,7 +30,8 @@
 * [2023年自动驾驶求职更新](https://zhuanlan.zhihu.com/p/645641942)
 * [如何画出漂亮的神经网络图？神经网络可视化工具集锦搜集](https://mp.weixin.qq.com/s/KgkumQWuMYQIlb5aNz6nQw)
 * [自动帮你完成物体检测标注？这个工具你必须了解一下](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=1&sn=7d8800c7fbb5cbcad7d2a1132991afdf&chksm=fb3b7323cc4cfa35dc2cc6e23ec58098b4da393fa75d28ddfa70fc39404a3cbc8d26374b9ca9&scene=126&sessionid=1689829439#rd)
-
+* [Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
+* [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
 
 ---
 
@@ -146,6 +147,7 @@
 * [规划控制|详解自动驾驶轨迹规划`Hybrid A*`算法](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247530419&idx=2&sn=45f1201efe4fbf51415df01e5c2b7377&chksm=ceb85a7af9cfd36c6536a313558de3346ee0e5b55e3a49f1e3d3ce5cad91bd81595503b44bd2&scene=126&sessionid=1685619036#rd)
 * [`混合A*算法`研究](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573889&idx=1&sn=4ce63d439ef186a119c5909021c49b06&chksm=fbc9d8e5ccbe51f3c8c49ef2fb7e9559c6eaf75778a69107b6f930f0ab3b8725cde90166bf1f&scene=126&sessionid=1685621296#rd)
 * [自动驾驶轨迹规划之hybrid A\*算法](https://mp.weixin.qq.com/s/DqhotGszG-ayBUmc_dMo8Q) ---> [原文地址](https://blog.csdn.net/weixin_65089713/article/details/124060155)
+* [Hybrid A\* 原理与代码](zhuanlan.zhihu.com/p/635971229) ---> 说的挺详细的 对参数和过程不熟悉的推荐看一下
 
 ---
 
@@ -281,6 +283,7 @@
 * [Apollo 星火计划 2.0](https://apollo.baidu.com/community/online-course/2) ---> 对 Apollo **代码模块**的讲解 看的是规划模块和控制模块部分 建议带着代码一起看
 * [Apollo 自动驾驶技术详解 25 讲](https://apollo.baidu.com/community/online-course/77) ---> 看的是自动驾驶规划技术和控制技术部分 主要是 apollo 结构
 * [Apollo 星火计划之 PnC 专项](https://apollo.baidu.com/community/online-course/12) ---> 自动驾驶决策规划技术 &#x2716;
+* [2023-Apollo星火培训PnC专项](https://apollo.baidu.com/community/online-course/409)
 
 
 ### 专栏
@@ -303,14 +306,12 @@
 
 * [万字聊聊百度Apollo自顶向下的自动驾驶之路](https://zhuanlan.zhihu.com/p/587873388)
 * [汇总！自动驾驶路径规划中的障碍物处理方法总结](https://zhuanlan.zhihu.com/p/635971229) ---> 相关文献中 障碍物约束处理的常用处理方法
-* [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
 
 ---
 
 ## 待看
 
 * 一些文章或视频 还没来得及看 先记录在这里
-
 * [一文搞懂梯度下降](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd)
 * [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
 * [Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现](https://www.guyuehome.com/34181)
@@ -345,9 +346,7 @@
 * [轻松掌握MMDetection整体构建流程](https://mp.weixin.qq.com/s/xUvVBsYoC83VnlEzKhNQtw)
 * [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/UUkfqCe7RbTkElaxIuXtWA)
 * [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/jCbPHsAen5IUB6MbBHf6rg)
-* [收藏了！Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
 * [【机器学习】机器学习的通用工作流程](https://mp.weixin.qq.com/s/Zs5vl1RjN6pZsp9nSgCtpw)
-* [复旦学子《可解释机器学习》中文版火了，完整PDF开发下载！](https://mp.weixin.qq.com/s/wjIUssbPqQd32r_NcV02Lw)
 * [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
 * [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
 * [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
