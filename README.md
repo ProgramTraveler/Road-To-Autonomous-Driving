@@ -353,5 +353,11 @@
 * [【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
+* [今天聊一下自动驾驶中的规划问题](https://mp.weixin.qq.com/s/OmXzPP1-72-kgizHKKm7Qg)
+* [如何看待小米8月11日公布的造车和自动驾驶研发进展？](https://mp.weixin.qq.com/s/G1MV6Jplz_onVQW1xs5mSg)
+* [955 神仙公司名单](https://mp.weixin.qq.com/s/FJRq5JeRI2m_zcJLpXWPdQ)
+* [PID 算法详细介绍](https://mp.weixin.qq.com/s/MOptnu2wLu8Gdf53vbgtjQ)
+* [图解 72 个机器学习基础知识点](https://mp.weixin.qq.com/s/j3MMf-S-SqhqbJl3JnIxsg)
+* [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s/CAZAkrqUY9jBE-XfbqM74A)
 
 ---
