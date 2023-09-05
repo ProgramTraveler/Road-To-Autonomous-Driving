@@ -19,6 +19,7 @@
 * [《机器学习导论》](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) &#x2716;
 * [《机器学习》](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) &#x2716;
 * [统计学习方法（第2版）](http://item.kongfz.com/book/64858435.html/) &#x2716;
+* [百面机器学习](https://book.douban.com/subject/30285146/) &#x2716;
 
 ---
 
@@ -302,6 +303,7 @@
 * [c++ 手撕A\* 路径规划算法](https://www.bilibili.com/video/BV1wj411o74g/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8cd5d0ae-3603-4bab-8743-9853cb41234f&share_source=WEIXIN&share_tag=s_i&timestamp=1691680668&unique_k=2SBhJ2y&up_id=15496050&vd_source=c68460d92fb2b166884357ad8c98de03) ---> [不想看视频可以直接看我代码](https://github.com/ProgramTraveler/Auto_driving_alg/blob/master/A*_planning/main.cpp)
 * [规划控制代码实战-视频](https://www.ixigua.com/home/3642002077926135/?source=pgc_author_profile&list_entrance=anyVideo)
 * [自动驾驶决策规划控制c++代码实现](https://github.com/CHH3213/chhRobotics_CPP)
+* [强化学习在MPC上的使用](https://github.com/tud-amr/go-mpc)
 
 ### 文章
 
