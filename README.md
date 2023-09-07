@@ -33,6 +33,7 @@
 * [自动帮你完成物体检测标注？这个工具你必须了解一下](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=1&sn=7d8800c7fbb5cbcad7d2a1132991afdf&chksm=fb3b7323cc4cfa35dc2cc6e23ec58098b4da393fa75d28ddfa70fc39404a3cbc8d26374b9ca9&scene=126&sessionid=1689829439#rd)
 * [Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
 * [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
+* [超详细配置教程：用 Windows 电脑训练深度学习模型](https://mp.weixin.qq.com/s/L_qS2ylvRYQX5LmES8shSQ)
 
 ---
 
