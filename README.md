@@ -34,6 +34,7 @@
 * [Git 核心操作图解](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY6vA)
 * [自动驾驶最火的比赛都在那里找？近20+自动驾驶数据集与Benchmark汇总！](https://mp.weixin.qq.com/s/9NbZujdCfNtBi-sh-sR6cw)
 * [超详细配置教程：用 Windows 电脑训练深度学习模型](https://mp.weixin.qq.com/s/L_qS2ylvRYQX5LmES8shSQ)
+* [程序员简历模板系列](https://github.com/qiwang067/ResumeSample)
 
 ---
 
@@ -240,19 +241,32 @@
 
 * [吃透《统计学习方法》](https://www.bilibili.com/video/BV1tZ4y1U7ot/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
 
-### 机器学习
+### 机器学习 / 深度学习 / 强化学习 练习网站
 
-* [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
-* [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
-* [浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [Hugging Face](https://huggingface.co/welcome)
+* [该仓库包含中文翻译的Hugging Face深度强化学习课程大纲](https://github.com/qiwang067/deep-rl-class-zh-CN) -> 中文课程在 notebook 文件中
+* [强化学习的基本算法](https://github.com/johnjim0816/rl-tutorials) &#x2716;
+* [python](https://www.udacity.com/course/introduction-to-python--ud1110) &#x2716;
+* [PyTorch 深度学习简介](https://www.udacity.com/course/deep-learning-pytorch--ud188) &#x2716;
+* [60 分钟内的 PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) &#x2716;
+* [深度学习入门之PyTorch](https://github.com/qiwang067/code-of-learn-deep-learning-with-pytorch) &#x2716;
+* [本项目将《动手学深度学习》(Dive into Deep Learning)原书中的 MXNet 实现改为PyTorch实现](https://github.com/qiwang067/Dive-into-DL-PyTorch) &#x2716;
+* [《机器学习》（西瓜书）公式推导解析](https://github.com/qiwang067/pumpkin-book) &#x2716;
+* [《李宏毅深度学习教程》 PDF下载](https://github.com/datawhalechina/leedl-tutorial) &#x2716;
+* [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述](https://github.com/qiwang067/DeepLearning-500-questions) &#x2716;
+* [一个优雅的 PyTorch 深度强化学习库](https://github.com/johnjim0816/tianshou) &#x2716;
+* [蘑菇书EasyRL](https://github.com/datawhalechina/easy-rl) &#x2716;
+* [李宏毅（Hung-Yi Lee）指导的 15 个机器学习作业的代码和幻灯片 2022](https://github.com/yyysjz1997/ML2022-Spring) &#x2716;
+* [这是《Learn Deep Learning with PyTorch》一书的代码](https://github.com/qiwang067/code-of-learn-deep-learning-with-pytorch) &#x2716;
+* [适合所有人的开源机器学习框架](https://github.com/yyysjz1997/tensorflow) &#x2716;
 
-### 深度学习
+### 机器学习 / 深度学习 / 强化学习 视频
 
 * [2022吴恩达机器学习Deeplearning.ai课程](https://www.bilibili.com/video/BV1Pa411X76s/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
 * [深度学习超全实战项目合集](https://www.bilibili.com/video/BV1ut4y1S7gP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
-
-### 强化学习
-
+* [李宏毅2023春机器学习课程](https://www.bilibili.com/video/BV1TD4y137mP/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [李宏毅2021/2022春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN/?vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
+* [浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=333.999.0.0&vd_source=c68460d92fb2b166884357ad8c98de03)  &#x2716;
 * [强化学习之基础(英文 无中文字幕)](https://www.bilibili.com/video/BV1Gb411J7WN/?vd_source=c68460d92fb2b166884357ad8c98de03) &#x2716;
 * [强化学习及其在竞速无人机中的应用](https://link.zhihu.com/?target=https%3A//www.shenlanxueyuan.com/open/course/99%3Fzhihu) &#x2716;
 
