@@ -43,6 +43,13 @@ Git 核心操作图解 | [portal](https://mp.weixin.qq.com/s/AYHKgKR7hcGa635evCY
 
 ## 练气期
 
+> + 这个阶段主要在了解路径规划算法 并在 ros 上跑一下仿真
+> + 通过 Apollo 了解自动驾驶汽车的每个结构
+> + 路径规划算法的分类以及各个算法的实现过程
+> + 了解汽车运动学
+> + Apollo 的源码并没有看太多 只是看的路径规划部分
+> + 这个阶段以理论知识和路径规划代码为主的(通过视频、书籍、文章)
+
 ### 初入 Apollo 
 
 #### apollo 相关指南
@@ -102,8 +109,6 @@ apollo星火计划 | [portal](https://apollo.baidu.com/community/online-course/2
 	:-: | :-:
 	apollo介绍之planning模块(四) | [portal](https://zhuanlan.zhihu.com/p/61982682)
 
----
-
 ### ROS
 
 * 对 ros 的学习 **ps: 对于 ros 我只是粗浅的学习了一些基本的知识 可以使用和理解代码的程度**
@@ -116,8 +121,6 @@ apollo星火计划 | [portal](https://apollo.baidu.com/community/online-course/2
 	如何学习ROS？ | [portal](https://www.zhihu.com/question/35788789/answer/580258849) 
 	入门学习ROS时遇到的最大困难是什么？ | [portal](https://www.zhihu.com/question/296233185/answer/571007197) 
 	ros与机器人 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247574804&idx=1&sn=a7dcd992a6e55c571dc7a5631a764705&chksm=fbc9dc70ccbe5566132c3f5591eb6db7b521480f32195a783dfd7e0a5908bf64222dbfb459a5&scene=126&sessionid=1685621256#rd)
-
----
 
 ### 坐标系
 
@@ -136,14 +139,12 @@ apollo星火计划 | [portal](https://apollo.baidu.com/community/online-course/2
 	ROS TF2-通过tf2_ros::MessageFilter 将世界坐标系下的点转为期望坐标系下的点 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514456&idx=1&sn=a8319e8e282bfe85af37340727887ecd&chksm=fbc8c03cccbf492a457046270df76602d5a7c0fa52f25f86be8168a406c93d913d8e21864d84&scene=126&sessionid=1685622173#rd) | &#x2716;
 	TF2 坐标变换-监听实例 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247514325&idx=1&sn=6f5c78fd846d7307440200216e047879&chksm=fbc8c1b1ccbf48a7b5fd679f09318acc9f0550db81cb6ebc94d67136b243ffe362a31c17c84b&scene=126&sessionid=1685622173#rd) | &#x2716;
 
----
-
 ### 规划
 
 * 最近在尝试做规划算法的具体实践
 	Title | Address | Replenish
 	:-: | :-: | :-:
-	实现一下 `混合A*` 在泊车方面的效果 | [项目传送门](https://github.com/ProgramTraveler/Narrow_and_Crowded_Spaces) | 这让我对算法的思路和代码的具体实现有了一个初入的了解 也更容易让我读源码 百度的 apollo 或许更适合去当一个说明书？
+	实现一下 混合A\* 在泊车方面的效果 | [项目传送门](https://github.com/ProgramTraveler/Narrow_and_Crowded_Spaces) | 这让我对算法的思路和代码的具体实现有了一个初入的了解 也更容易让我读源码 百度的 apollo 或许更适合去当一个说明书？
 	AutowareAuto泊车案例复现及原理简介 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247571086&idx=1&sn=a53c100dc997a0c4eba55d8032cddd8c&chksm=fbc9afeaccbe26fcf56023de7e1fc21d5110cac625404254a6871843a3d9e2f064ea7f071409&scene=126&sessionid=1685621360#rd) | 看看就行
 	
 #### 运动规划
@@ -184,8 +185,6 @@ Title | Address | Replenish
 自动驾驶轨迹规划之 hybrid A\* 算法 | [portal](https://mp.weixin.qq.com/s/DqhotGszG-ayBUmc_dMo8Q) | [原文地址](https://blog.csdn.net/weixin_65089713/article/details/124060155)
 Hybrid A\* 原理与代码 | [portal](zhuanlan.zhihu.com/p/635971229) | 说的挺详细的 对参数和过程不熟悉的推荐看一下
 
----
-
 ### 综述
 
 Title | Address | Wiki or Replenish
@@ -193,8 +192,6 @@ Title | Address | Wiki or Replenish
 自动驾驶决策控制及运动规划最详细最接地气综述(2022年) | [portal](https://zhuanlan.zhihu.com/p/260707853) | [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
 综述-深度强化学习在自动驾驶中的应用 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) | Have read
 综述-城市道路自动驾驶车辆规划与控制技术 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) | 2016 年的一篇综述 其中内容包含较多 主要还是关注的规划部分 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E7%BB%BC%E8%BF%B0_%E5%9F%8E%E5%B8%82%E9%81%93%E8%B7%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E8%BE%86%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%8A%80%E6%9C%AF)
-
----
 
 ### 车辆建模
 
@@ -230,11 +227,13 @@ Title | Address | Replenish
 :-: | :-: | :-:
 无人驾驶系列知识入门到提高 | [portal](https://www.bilibili.com/video/BV137411E7oC?p=10&vd_source=c68460d92fb2b166884357ad8c98de03) | 只看了 路径规划部分 内容比较基础(时间比较久了 质量也一般 感觉还是国外的好一点 2020年的) 有知识前提的观看更好一点 `up主`的主页有其他内容
 
----
-
 ## 筑基期
 
-* 规划控制不分家
+> + 规划控制不分家
+> + 在对理论知识有一定了解后 就想再深入一下 就把 Apollo 的相关视频课看了一遍 顺便查漏补缺
+> + 通过代码把 规划/控制算法 的理论通过代码实现
+> + 后面发现绕不开得去学习 强化学习 就开始恶补强化学习知识(在这之前已经读完 《动手读深度学习》 并把代码都敲了一遍)
+> + 在学习的过程中 建议搭配 Hugging Hub 和 kaggle 食用
 
 ### 整体知识
 
@@ -299,6 +298,7 @@ Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 Hugging Face | [portal](https://huggingface.co/welcome) | 主要是 learn 深度强化学习 推荐入门学习 了解算法过程和原理 | &#x2714;
 该仓库包含中文翻译的 Hugging Face 深度强化学习课程大纲 | [portal](https://github.com/qiwang067/deep-rl-class-zh-CN) | 看不懂的可以看一下这个中文翻译 中文课程在 notebook 文件中 | &#x2714;
+kaggle | [portal](https://www.kaggle.com/) | 里面的人说话又好听 个个都是人才 我超喜欢这里的 | &#x2714;
 强化学习的基本算法 | [portal](https://github.com/johnjim0816/rl-tutorials) | | &#x2716;
 python | [portal](https://www.udacity.com/course/introduction-to-python--ud1110) | ？想重新拾起python | &#x2714;
 PyTorch 深度学习简介 | [port](https://www.udacity.com/course/deep-learning-pytorch--ud188) | 框架得学一下吧 | &#x2716;
