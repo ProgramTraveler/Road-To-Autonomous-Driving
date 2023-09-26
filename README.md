@@ -185,7 +185,7 @@ Title | Address | Replenish
 规划控制 详解自动驾驶轨迹规划 Hybrid A\* 算法 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247530419&idx=2&sn=45f1201efe4fbf51415df01e5c2b7377&chksm=ceb85a7af9cfd36c6536a313558de3346ee0e5b55e3a49f1e3d3ce5cad91bd81595503b44bd2&scene=126&sessionid=1685619036#rd) | Have read
 混合A\* 算法研究 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247573889&idx=1&sn=4ce63d439ef186a119c5909021c49b06&chksm=fbc9d8e5ccbe51f3c8c49ef2fb7e9559c6eaf75778a69107b6f930f0ab3b8725cde90166bf1f&scene=126&sessionid=1685621296#rd) | Have read
 自动驾驶轨迹规划之 hybrid A\* 算法 | [portal](https://mp.weixin.qq.com/s/DqhotGszG-ayBUmc_dMo8Q) | [原文地址](https://blog.csdn.net/weixin_65089713/article/details/124060155)
-Hybrid A\* 原理与代码 | [portal](zhuanlan.zhihu.com/p/635971229) | 说的挺详细的 对参数和过程不熟悉的推荐看一下
+Hybrid A\* 原理与代码 | [portal](https://zhuanlan.zhihu.com/p/635971229) | 说的挺详细的 对参数和过程不熟悉的推荐看一下
 
 ### 综述
 
