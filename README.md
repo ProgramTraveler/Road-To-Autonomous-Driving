@@ -295,17 +295,18 @@ Title | Address | Done
 ### 机器学习 / 深度学习 / 强化学习 练习网站
 
 * 还是没逃过 ML、DL、RL 的魔爪
+* 我自己学习和练习DRL的仓库 ---> [protal](https://github.com/ProgramTraveler/DRL)
 
 Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 Hugging Face | [portal](https://huggingface.co/welcome) | 主要是 learn 深度强化学习 推荐入门学习 了解算法过程和原理 | &#x2714;
 该仓库包含中文翻译的 Hugging Face 深度强化学习课程大纲 | [portal](https://github.com/qiwang067/deep-rl-class-zh-CN) | 看不懂的可以看一下这个中文翻译 中文课程在 notebook 文件中 | &#x2714;
 kaggle | [portal](https://www.kaggle.com/) | 里面的人说话又好听 个个都是人才 我超喜欢这里的 | &#x2714;
-强化学习的基本算法 | [portal](https://github.com/johnjim0816/rl-tutorials) | 项目地址更新了 强化学习基本算法都有源码 | &#x2714;
+强化学习的基本算法 | [portal](https://github.com/johnjim0816/rl-tutorials) | 项目地址更新了 强化学习基本算法都有源码([仓库移至](https://github.com/johnjim0816/joyrl-offline)) | &#x2714;
 Deep-Reinforcement-Learning-Algorithms | [portal](https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms) | 深度强化学习算法具体应用 这个更直观一点 有图有真相 | learing
 python | [portal](https://www.udacity.com/course/introduction-to-python--ud1110) | ？想重新拾起python | &#x2714;
 PyTorch 深度学习简介 | [port](https://www.udacity.com/course/deep-learning-pytorch--ud188) | 框架得学一下吧 | &#x2716;
-60 分钟内的 PyTorch | [portal](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | 这次一定 | &#x2716;
+60 分钟内的 PyTorch | [portal](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) | 这次一定 | &#x2714; 
 深度学习入门之PyTorch | [portal](https://github.com/qiwang067/code-of-learn-deep-learning-with-pytorch) | 了解了解得了 | &#x2716;
 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的 MXNet 实现改为PyTorch实现 | [portal](https://github.com/qiwang067/Dive-into-DL-PyTorch) | 我之前是把 MXNet 版本的敲了一遍 | &#x2714;
 《机器学习》（西瓜书）公式推导解析 | [portal](https://github.com/qiwang067/pumpkin-book) | 等着搭配实书食用 | &#x2716;
