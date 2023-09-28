@@ -18,9 +18,21 @@ Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 《动手学深度学习》 | [portal](https://book.douban.com/subject/33450010/) | 练气期阶段完成阅读 主要是计算机视觉及其前导知识 | &#x2714;
 《无人驾驶原理与实践》 | [portal](https://book.douban.com/subject/30494269/) | 练气期阶段完成了规划相关的阅读 在阅读强化学习部分感觉需要补一下概率论以及强化学习的基础 筑基期阶段完成 强化学习这部分没什么可读的 太简陋了 | &#x2714;
+《EASY RL 强化学习教程》 | [portal](https://github.com/datawhalechina/easy-rl) | 我买的纸质版的 对我这种初学者挺好的 建议可以搭配 **Hugging Face hub** 提供的课程 我是在学完理论后 对照实现的源码(**提供源码的网站在[这个章节](# 机器学习 / 深度学习 / 强化学习 练习网站)**)来继续了解算法的思想| &#x2714;
 《机器学习导论》 | [portal](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) | | &#x2716;
 《机器学习》 | [portal](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) | | &#x2716;
 《统计学习方法（第2版）》 | [portal](http://item.kongfz.com/book/64858435.html/) | | &#x2716;
+
+* 公司导师推荐的书籍
+
+Title | Address | Replenish | Done
+:-: | :-: | :-: | :-:
+《C++ Core Guidelines解析》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/C%2B%2B%20Core%20Guidelines%E8%A7%A3%E6%9E%90.png) | | &#x2716;
+《C++ 经典设计模式》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/c%2B%2B%E7%BB%8F%E5%85%B8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png) | | &#x2716;
+《Effective C++ 改善程序与设计的55个具体的做法》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20C%2B%2B%20%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95.png) | | &#x2716;
+《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | | &#x2716;
+《算法的乐趣》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.png) | | &#x2716;
+《自动驾驶决策规划技术理论与实践》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.png) | | &#x2716;
 
 ---
 
