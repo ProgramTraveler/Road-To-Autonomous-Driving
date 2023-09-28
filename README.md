@@ -1,4 +1,4 @@
-# 自动驾驶之路
+# <font color=Tomato>自动驾驶之路</font>
 
 ## [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki)
 
@@ -18,7 +18,7 @@ Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 《动手学深度学习》 | [portal](https://book.douban.com/subject/33450010/) | 练气期阶段完成阅读 主要是计算机视觉及其前导知识 | &#x2714;
 《无人驾驶原理与实践》 | [portal](https://book.douban.com/subject/30494269/) | 练气期阶段完成了规划相关的阅读 在阅读强化学习部分感觉需要补一下概率论以及强化学习的基础 筑基期阶段完成 强化学习这部分没什么可读的 太简陋了 | &#x2714;
-《EASY RL 强化学习教程》 | [portal](https://github.com/datawhalechina/easy-rl) | 我买的纸质版的 对我这种初学者挺好的 建议可以搭配 **Hugging Face hub** 提供的课程 我是在学完理论后 对照实现的源码(**提供源码的网站在[这个章节](# 机器学习 / 深度学习 / 强化学习 练习网站)**)来继续了解算法的思想| &#x2714;
+《EASY RL 强化学习教程》 | [portal](https://github.com/datawhalechina/easy-rl) | 我买的纸质版的 对我这种初学者挺好的 建议可以搭配 **Hugging Face hub** 提供的课程 我是在学完理论后 对照实现的源码(**提供源码的网站在[这个章节](#机器学习 / 深度学习 / 强化学习 练习网站)**)来继续了解算法的思想| &#x2714;
 《机器学习导论》 | [portal](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) | | &#x2716;
 《机器学习》 | [portal](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) | | &#x2716;
 《统计学习方法（第2版）》 | [portal](http://item.kongfz.com/book/64858435.html/) | | &#x2716;
@@ -327,7 +327,7 @@ PyTorch 深度学习简介 | [port](https://www.udacity.com/course/deep-learning
 一个优雅的 PyTorch 深度强化学习库 | [portal](https://github.com/johnjim0816/tianshou) | 扶我起来 还能学 | &#x2714;
 蘑菇书EasyRL | [portal](https://github.com/datawhalechina/easy-rl) | 我直接看的实体书 | &#x2714;
 李宏毅（Hung-Yi Lee）指导的 15 个机器学习作业的代码和幻灯片 2022 | [portal](https://github.com/yyysjz1997/ML2022-Spring) | ML | &#x2716;
-这是《Learn Deep Learning with PyTorch》一书的代码 | [portal](https://github.com/qiwang067/code-of-learn-deep-learning-with-pytorch) | 大佬的仓库收藏就对了 | &#x2716;
+这是《Learn Deep Learning with PyTorch》一书的代码 | [portal](https://github.com/qiwang067/code-of-learn-deep-learning-with-pytorch) | 大佬的仓库收藏就对了 | &#x2714; 
 适合所有人的开源机器学习框架 | [portal](https://github.com/yyysjz1997/tensorflow) | 不知道适不适合我 | &#x2716;
 
 ### 机器学习 / 深度学习 / 强化学习 视频
