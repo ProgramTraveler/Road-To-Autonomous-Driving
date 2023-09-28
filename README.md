@@ -4,7 +4,7 @@
 
 ## 技术栈
 
-<img src="自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 70%">
+<img src="assets/自动驾驶技术栈.jpg" alt="技术栈" style="zoom: 70%">
 
 ## 自动驾驶学习资料合集
 [学习资料合集](https://zhuanlan.zhihu.com/p/58422485)
@@ -241,11 +241,11 @@ Title | Address | Replenish
 
 * 方向
 
-<img src="规划控制.png" alt="img" style="zoom: 50%">
+<img src="assets/规划控制.png" alt="img" style="zoom: 50%">
 
 * 自动驾驶之心规划控制理论课程大纲(2023年)
 
-<img src="自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 70%">
+<img src="assets/自动驾驶之心规划控制大纲.png" alt="img" style="zoom: 70%">
 
 ### 目标
 
@@ -295,7 +295,7 @@ Title | Address | Done
 ### 机器学习 / 深度学习 / 强化学习 练习网站
 
 * 还是没逃过 ML、DL、RL 的魔爪
-* 我自己学习和练习DRL的仓库 ---> [protal](https://github.com/ProgramTraveler/DRL)
+* 我自己学习和练习DRL的仓库 ---> [portal](https://github.com/ProgramTraveler/DRL)
 
 Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
