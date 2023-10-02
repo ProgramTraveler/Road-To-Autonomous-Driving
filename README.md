@@ -18,7 +18,7 @@ Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 《动手学深度学习》 | [portal](https://book.douban.com/subject/33450010/) | 练气期阶段完成阅读 主要是计算机视觉及其前导知识 | &#x2714;
 《无人驾驶原理与实践》 | [portal](https://book.douban.com/subject/30494269/) | 练气期阶段完成了规划相关的阅读 在阅读强化学习部分感觉需要补一下概率论以及强化学习的基础 筑基期阶段完成 强化学习这部分没什么可读的 太简陋了 | &#x2714;
-《EASY RL 强化学习教程》 | [portal](https://github.com/datawhalechina/easy-rl) | 我买的纸质版的 对我这种初学者挺好的 建议可以搭配 **Hugging Face hub** 提供的课程 我是在学完理论后 对照实现的源码(**提供源码的网站在[这个章节](#机器学习-/-深度学习-/-强化学习-练习网站)**)来继续了解算法的思想| &#x2714;
+《EASY RL 强化学习教程》 | [portal](https://github.com/datawhalechina/easy-rl) | 我买的纸质版的 对我这种初学者挺好的 建议可以搭配 **Hugging Face hub** 提供的课程 我是在学完理论后 对照实现的源码(源码的网站在[机器学习 / 深度学习 / 强化学习 练习网站](# 机器学习-/-深度学习-/-强化学习-练习网站)这个章节)来继续了解算法的思想 | &#x2714;
 《机器学习导论》 | [portal](https://item.jd.com/12808277.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d1db3f165cd040dcb6e64a8f47cbeceb) | | &#x2716;
 《机器学习》 | [portal](https://item.jd.com/12762673.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_2030030269_4100860958_3004923634&utm_term=d3b032d7c84d4f27bbe865a1e4456ab9) | | &#x2716;
 《统计学习方法（第2版）》 | [portal](http://item.kongfz.com/book/64858435.html/) | | &#x2716;
@@ -407,6 +407,9 @@ Title | Address | Replenish
 一文搞懂梯度下降 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd) | 怎么感觉是吴恩达老师的 PPT？
 三张图读懂机器学习：基本概念、五大流派与九种常见算法 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=2&sn=87afa8e60d542a874eb255b00504dff9&chksm=ceee912bf999183da1c1f5db17684e4c42eb9ca6c6597e1c10615470cf57ec349af106ec8066&scene=126&sessionid=1689670185#rd) | 就简单介绍了下基本概念 适用场景 公式、具体思想都没有
 图解 72 个机器学习基础知识点 | [portal](https://mp.weixin.qq.com/s/j3MMf-S-SqhqbJl3JnIxsg) | 算是对基本术语的解释
+深度学习神经网络基础知识总结 |[portal](https://mp.weixin.qq.com/s/NWuSgmdqsGYRve4WqhixTw) | 真.基础
+深度学习入门宝典：浅谈深度神经网络 | [portal](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd) | 简单解释如何创建网络以及 变量的含义
+马尔可夫链 小白都能看懂的马尔可夫链详解 | [portal](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ) | 简单了解概念还行 想懂还是去看书
 
 ---
 
@@ -420,40 +423,27 @@ Title | Address | Replenish
 * [路径规划新方案！基于势场的自动驾驶车辆交互速度优化](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247548909&idx=4&sn=fee4a86180c390e1a99f3bb7459783c7&chksm=ceb81224f9cf9b320a48d2a9ad8b5a180e398d32e92613b23dd608ff256cd55275c1aa7bf58e&scene=126&sessionid=1687848933#rd)
 * [自动驾驶的里程碑 | 感知、预测、规划一站汇总，都在这里了！](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247549322&idx=1&sn=6b2e1441e74d2652bb9b55d5803d0825&chksm=ceb82c43f9cfa5557ee22eaac0a0b4b30a7ad8fc70d65b64122af986e8ee8694ddffdfe50fd8&scene=126&sessionid=1688003811#rd)
 * [经验之谈，轨迹预测真正重要的是什么？](https://mp.weixin.qq.com/s/pkoBNCHW02ymhVg-VfvV4w)
-* [【深度学习】神经网络基础知识总结](https://mp.weixin.qq.com/s/NWuSgmdqsGYRve4WqhixTw)
 * [13张动图快速理解马尔科夫链、PCA、贝叶斯！](https://mp.weixin.qq.com/s/HLu3uTDq3rVGzU4j_Rv15A)
-* [详解概率论基础: 从贝叶斯开始](https://mp.weixin.qq.com/s/AoascruwvwhYbxt1sJ7sNg)
 * [关于motion and path planning有哪些研究方向及难点？](https://zhuanlan.zhihu.com/p/642483485)
 * [【机器学习】机器学习通用工作流程!](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510651&idx=2&sn=cbb394714b55bdd4d84939cef8f159f3&chksm=970721c7a070a8d19ea7e3cd1ab0a9bf18526ee92cdcc64da29305dee06dd934fe6ca669cf3f&scene=126&sessionid=1689646596#rd)
-* [图神经网络的数学原理总结](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=1&sn=ab1eb8720f53b58c441a29c033d29db5&chksm=ceee912bf999183d92e8252b271c0872b07086d93ea51537c6b2def5ac7a11d5eea3e5acfa9c&scene=126&sessionid=1689670185#rd)
-* [彻底理解傅里叶变换！](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506360&idx=1&sn=f627a3509d25b86010c6bd8bb62fe95c&chksm=ceee91e1f99918f73cab0339e42b01cd8f2ee30f765f994c39f6dbd47dfe69674ac2fcaeb801&scene=126&sessionid=1689829402#rd)
-* [神经网络与傅立叶变换到底有没有关系？](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506400&idx=1&sn=db31d7093f9fc733a10ea5d9f2028dd5&chksm=ceee91b9f99918af4bae9ea6d915f8de7e05c621a58ca0fcd42bb520ef74f35e31fdc3e01d28&scene=126&sessionid=1689829402#rd)
-* [深度学习检测小目标常用方法](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=3&sn=52728853eaf75eccf0f00e98b0872eb2&chksm=cfa57a79f8d2f36f5c251e573522ce3a32d9f7a6d8a8cb1ef80fffd880e86e310ccb8db5501d&scene=126&sessionid=1689829417#rd)
 * [机器学习中的最优化算法（全面总结）](https://mp.weixin.qq.com/s?__biz=Mzg4NTUzNzE5OQ==&mid=2247539385&idx=1&sn=9845ab9f26d5a22db65244ee7e277a37&chksm=cfa57a79f8d2f36f2c2191bfda0f69effc4d90a8b1a9a9754b7d0e347a5a6765ac842ac884b2&scene=126&sessionid=1689829417#rd)
 * [【Math】常见的几种最优化方法](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=2&sn=a69325e5950109b8d9c3b5e1372bec87&chksm=fb3b7323cc4cfa35685024fdb810f1d0fbb1f5d9646ee893ecf12e91a4878505c0cf7bef6c6c&scene=126&sessionid=1689829439#rd)
 * [自动驾驶最新的技术栈有哪些？今天给大家盘点下](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg)
 * [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506515&idx=1&sn=844a0761b8a506a091a132c8de890912&chksm=ceee920af9991b1ce0ec96aaf4283f9eae26b136e6ccbe14b74a5dc6a94b34d4a55651569442&scene=126&sessionid=1689923381#rd)
 * [深度学习必掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gngNltgQESnNmAZLNES2CQ)
 * [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/Yb83YNU-hiM62kIoeGxxgg)
-* [【深度学习】入门宝典：浅谈深度神经网络](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd)
 * [最新综述！五大方向逐一梳理半监督目标检测进展](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247554216&idx=2&sn=a0562fa2cd73d7d224a5db47dde8399b&chksm=ceb83961f9cfb077903722b71491e1b435c9a2758452f3ad53161cabcdcb006cffc29b4c6be0&scene=126&sessionid=1690435687#rd)
 * [【机器学习】机器学习的几种超参数调试方法（附代码参考）](https://mp.weixin.qq.com/s/E5HY4YhMbM8rISu5uwFuzA)
 * [实际工程项目中是怎么用卡尔曼滤波的?](https://mp.weixin.qq.com/s/nHmylhA6_x8KiO3J-GQj6w)
 * [决策树、随机森林、bagging、boosting、Adaboost、GBDT、XGBoost总结](https://mp.weixin.qq.com/s/jHMyHryf7z-jWF3Go4GFjQ)
 * [为什么今年PNC那么香？端到端自动驾驶未来可期！](https://mp.weixin.qq.com/s/xSjbaKiHCMpJlYBTMapskw)
 * [轻松掌握MMDetection整体构建流程](https://mp.weixin.qq.com/s/xUvVBsYoC83VnlEzKhNQtw)
-* [小白看得懂的 Transformer (图解)](https://mp.weixin.qq.com/s/UUkfqCe7RbTkElaxIuXtWA)
 * [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/jCbPHsAen5IUB6MbBHf6rg)
 * [【机器学习】机器学习的通用工作流程](https://mp.weixin.qq.com/s/Zs5vl1RjN6pZsp9nSgCtpw)
-* [马尔可夫链 ▏小白都能看懂的马尔可夫链详解](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ)
 * [图解机器学习：贝叶斯算法](https://mp.weixin.qq.com/s/V5ENjULuzlRvJ_ZYJzxCHg)
 * [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
-* [今天聊一下自动驾驶中的规划问题](https://mp.weixin.qq.com/s/OmXzPP1-72-kgizHKKm7Qg)
-* [如何看待小米8月11日公布的造车和自动驾驶研发进展？](https://mp.weixin.qq.com/s/G1MV6Jplz_onVQW1xs5mSg)
-* [PID 算法详细介绍](https://mp.weixin.qq.com/s/MOptnu2wLu8Gdf53vbgtjQ)
-* [3种常见的集成学习决策树算法及原理](https://mp.weixin.qq.com/s/CAZAkrqUY9jBE-XfbqM74A)
 
 ---
