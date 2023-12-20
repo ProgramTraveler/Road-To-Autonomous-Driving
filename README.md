@@ -25,18 +25,12 @@ Title | Address | Replenish | Done
 
 * 公司导师推荐的书籍
 
-  > **2023-10-09** 进入上海酷哇（`cowarobot`）的 `PNC`（规划与控制）实习
-  >
-  > * 需求技能：c++、docker、git、crmake
-  >
-  > * 项目：负责实现每个模块之间的通信（类似于cyber），以及将内容进行可视化（参考 apollo 的仿真界面）和节点之间的通信；
-
 Title | Address | Replenish | Done
 :-: | :-: | :-: | :-:
 《C++ Core Guidelines解析》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/C%2B%2B%20Core%20Guidelines%E8%A7%A3%E6%9E%90.png) | | &#x2716;
-《C++ 经典设计模式》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/c%2B%2B%E7%BB%8F%E5%85%B8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png) | | &#x2716;
+《C++ 经典设计模式》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/c%2B%2B%E7%BB%8F%E5%85%B8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png) | 进度 173 / 353 | &#x2716;
 《Effective C++ 改善程序与设计的55个具体的做法》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20C%2B%2B%20%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95.png) | | &#x2716;
-《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | 目前进度 116/281 | &#x2716;
+《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | 中文翻译版的翻译的感觉怪怪的，有股 “哦！彼得，我的上帝”这种翻译的感觉。很难让人读下去，但是内容和例子还可以。没看过英文版... | &#x2714;
 《算法的乐趣》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.png) | | &#x2716;
 《自动驾驶决策规划技术理论与实践》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.png) | | &#x2716;
 
@@ -254,6 +248,19 @@ Title | Address | Replenish
 > + 通过代码把 规划/控制算法 的理论通过代码实现
 > + 后面发现绕不开得去学习 强化学习 就开始补强化学习知识(在这之前已经读完 《动手读深度学习》 并把代码都敲了一遍)
 > + 在学习的过程中 建议搭配 Hugging Face Hub 和 kaggle 食用
+
+### 实习经历
+
+**2023.10.09-至今** 进入上海酷哇（`cowarobot`）的 `PNC`（规划与控制）实习
+
+#### 2023.10 
+* 项目：负责实现每个模块之间的通信（类似于cyber），以及将内容进行可视化（参考 apollo 的仿真界面）和节点之间的通信；
+* 需求技能：c++、docker、git、crmake；
+
+### 2023.11-12
+项目：负责独角兽在边缘的树池吹扫场景的设计以及代码实现
+需求技能：一定的数学知识，包括不限于世界坐标系和 sl 坐标系的转换、三次样条差值等相关代码实现；
+项目：doing
 
 ### 整体知识
 
