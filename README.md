@@ -30,7 +30,7 @@ Title | Address | Replenish | Done
 《C++ Core Guidelines解析》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/C%2B%2B%20Core%20Guidelines%E8%A7%A3%E6%9E%90.png) | | &#x2716;
 《C++ 经典设计模式》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/c%2B%2B%E7%BB%8F%E5%85%B8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png) | 21个 C++ 的设计模式，推荐食用，对每个都使用场景和代码都有描述 | &#x2714;
 《Effective C++ 改善程序与设计的55个具体的做法》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20C%2B%2B%20%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95.png) | | &#x2716;
-《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | 中文翻译版的翻译的感觉怪怪的，有股 “彼得，我的上帝”这种翻译的感觉。很难让人读下去，但是内容和例子还可以。没看过英文版... | &#x2714;
+《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | 中文翻译版的翻译的感觉怪怪的，有股 “彼得，我的上帝”这种翻译的感觉。很难让人读下去，但是内容和例子还可以。没看过英文版...[解析](https://www.yuque.com/jtcheng/emcpp/item01) | &#x2714;
 《算法的乐趣》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.png) | | &#x2716;
 《自动驾驶决策规划技术理论与实践》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.png) | | &#x2716;
 
