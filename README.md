@@ -31,8 +31,8 @@ Title | Address | Replenish | Done
 《C++ 经典设计模式》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/c%2B%2B%E7%BB%8F%E5%85%B8%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png) | 21个 C++ 的设计模式，推荐食用，对每个都使用场景和代码都有描述 | &#x2714;
 《Effective C++ 改善程序与设计的55个具体的做法》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20C%2B%2B%20%E6%94%B9%E5%96%84%E7%A8%8B%E5%BA%8F%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%8455%E4%B8%AA%E5%85%B7%E4%BD%93%E5%81%9A%E6%B3%95.png) | | &#x2716;
 《Effective Modern C++》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/Effective%20Modern%20C%2B%2B.png) | 中文翻译版的翻译的感觉怪怪的，有股 “彼得，我的上帝”这种翻译的感觉。很难让人读下去，但是内容和例子还可以。没看过英文版...[解析](https://www.yuque.com/jtcheng/emcpp/item01) | &#x2714;
-《算法的乐趣》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.png) | | &#x2716;
-《自动驾驶决策规划技术理论与实践》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.png) | | &#x2716;
+《算法的乐趣》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3.png) | 有源码，有公式。只是关于自动驾驶的相关算法比较少。属于包罗万象的那种，我是直接拿来当“算法字典”，如果有需要的算法会来查看这本书是否有介绍。。 | &#x2714;
+《自动驾驶决策规划技术理论与实践》 | [portal](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/blob/master/assets/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92%E6%8A%80%E6%9C%AF%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5.png) | 非常好的书，使我的大脑旋转，推荐反复阅读。其中大部分都是公式推导，源码较少，对非数学专业计算机的我来说不是很友好 | &#x2714;
 
 ---
 
@@ -402,6 +402,15 @@ c++ 手撕A\* 路径规划算法 | [portal](https://www.bilibili.com/video/BV1wj
 自动驾驶决策规划控制c++代码实现 | [portal](https://github.com/CHH3213/chhRobotics_CPP) | 配环境ing
 强化学习在MPC上的使用 | [portal](https://github.com/tud-amr/go-mpc) | [个人理解](https://github.com/ProgramTraveler/github-wiki/blob/master/%E7%AD%91%E5%9F%BA%E6%9C%9F/%E4%BB%A3%E7%A0%81/Go-MPC/%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95.pdf)
 
+### 友链
+
+* 这部分是我的列表中的道友，我觉得其中的部分对我来说可借鉴(排名不分先后)
+
+Address | Link | summary |Replenish
+:-: | :-: | :-: | :-:
+[@lucianzhong](https://github.com/lucianzhong)| https://github.com/lucianzhong/Apollo_learning | 关于 apollo 的模块笔记 |
+[@onlytaile](https://github.com/onlytailei) | https://github.com/onlytailei/CppRobotics | 自动驾驶中一些算法 | 
+[@qqfly](https://github.com/qqfly) | https://github.com/qqfly/how-to-learn-robotics | |
 ### 文章
 
 Title | Address | Replenish
