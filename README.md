@@ -425,14 +425,14 @@ Title | Address | Replenish
 马尔可夫链 小白都能看懂的马尔可夫链详解 | [portal](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ) | 简单了解概念还行 想懂还是去看书
 自动驾驶最新的技术栈有哪些？今天给大家盘点下 | [portal](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg) | 基础技术栈，本人仅关注规划方面 
 Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](https://www.guyuehome.com/34181) | frenet 坐标在规划方面的使用
+从欧拉角到旋转位移矩阵再到变换矩阵 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd) | 欧拉角变换的详细介绍，包括矩阵变换的公式和内旋外旋
+机器学习与优化基础（Machine Learning and Optimization）| [portal](https://zhuanlan.zhihu.com/p/169835477) | 常用的优化方法，虽然是机器学习，但其中的数学内容在自动驾驶中也会使用
 
 ---
 
 ## 待看
 
 * 一些文章或视频 还没来得及看 先记录在这里
-* [从欧拉角到旋转位移矩阵再到变换矩阵](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd)
-* [机器学习与优化基础（Machine Learning and Optimization）](https://zhuanlan.zhihu.com/p/169835477)
 * [【自动驾驶】运动规划丨速度规划丨自动驾驶速度重规划方法](https://mp.weixin.qq.com/s/-yb7OD1Sz64CcIOxLrnXwA)
 * [路径规划新方案！基于势场的自动驾驶车辆交互速度优化](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247548909&idx=4&sn=fee4a86180c390e1a99f3bb7459783c7&chksm=ceb81224f9cf9b320a48d2a9ad8b5a180e398d32e92613b23dd608ff256cd55275c1aa7bf58e&scene=126&sessionid=1687848933#rd)
 * [自动驾驶的里程碑 | 感知、预测、规划一站汇总，都在这里了！](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247549322&idx=1&sn=6b2e1441e74d2652bb9b55d5803d0825&chksm=ceb82c43f9cfa5557ee22eaac0a0b4b30a7ad8fc70d65b64122af986e8ee8694ddffdfe50fd8&scene=126&sessionid=1688003811#rd)
