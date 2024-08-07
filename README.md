@@ -445,5 +445,6 @@ Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](ht
 * [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
 * [哎嗨人生，规控打工人](https://www.zhihu.com/people/gaows-75/posts?page=2)
 * [忠厚老实的老王](https://space.bilibili.com/287989852/video?tid=0&pn=3&keyword=&order=pubdate)
-
+* [c++那些事](https://github.com/Light-City/CPlusPlusThings)
+* [吾爱破解](https://www.52pojie.cn/)
 ---
