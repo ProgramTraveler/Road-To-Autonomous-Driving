@@ -366,6 +366,7 @@ Title | Address
 
 * 最初的时候也看了一点 apollo 的视频课 但浅尝辄止
 * 准备扫一下盲
+* 因为后面直接进公司实习了，所以这部分的内容就没有继续了解。直接从实践中学习了。
 
 Title | Address | Replenish
 :-: | :-: | :-:
@@ -382,7 +383,7 @@ Apollo 星火计划之 PnC 专项 | [portal](https://apollo.baidu.com/community/
 Title | Address | Replenish
 :-: | :-: | :-:
 【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述 | [portal](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03) |简单介绍此次的更新内容和一些 very 基础的东西。以及环境安装流程
-
+【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置 | [portal](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03) | ...
 
 ### 专栏
 
@@ -440,9 +441,9 @@ Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](ht
 ## 待看
 
 * 一些文章或视频 还没来得及看 先记录在这里
-* [【Math】常见的几种最优化方法](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247570984&idx=2&sn=a69325e5950109b8d9c3b5e1372bec87&chksm=fb3b7323cc4cfa35685024fdb810f1d0fbb1f5d9646ee893ecf12e91a4878505c0cf7bef6c6c&scene=126&sessionid=1689829439#rd)
 * [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03)
 * [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
+* [哎嗨人生，规控打工人](https://www.zhihu.com/people/gaows-75/posts?page=2)
+* [忠厚老实的老王](https://space.bilibili.com/287989852/video?tid=0&pn=3&keyword=&order=pubdate)
 
 ---
