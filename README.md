@@ -380,6 +380,7 @@ Apollo 星火计划之 PnC 专项 | [portal](https://apollo.baidu.com/community/
 2023-Apollo星火培训PnC专项 | [portal](https://apollo.baidu.com/community/online-course/409) | &#x2716;
 
 * 2023 apollo 星火培训 pnc 专项营
+
 Title | Address | Replenish
 :-: | :-: | :-:
 【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述 | [portal](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03) |简单介绍此次的更新内容和一些 very 基础的东西。以及环境安装流程
