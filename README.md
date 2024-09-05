@@ -294,6 +294,15 @@ Title | Address | Replenish
 * [如何写专利？-海绵叔叔的回答](https://www.zhihu.com/question/21066904/answer/140745693)
 * [如何写专利？-说 明 书(撰写示例)---机械类专利适用](https://www.zhihu.com/question/21066904/answer/792229301)
 
+### 数学部分的注释
+
+* 因为本人并非数学专业的，但是又需要去了解一些数学知识。在一些自动驾驶的相关内容中，有些符号、公式以及相关名词在阅读过程中对我造成了一些阻碍(菜就多练)，每次去查，再读又有点浪费时间，而且看网上并没有对数学相关的内容集中的解释。所以这部分内容是我在阅读数学的相关知识时，对遇到不懂的数学知识的收集。
+* > 有很多线上论坛里的人们很愿意向别人解释数学。你可以在屏幕上截张困扰你的符号图，写清楚出处和链接，然后连同你的困惑一起发布在问答网站上。[原文链接](https://cloud.tencent.com/developer/article/1093730)
+Title | Address | Replenish
+:-: | :-: | :-:
+mathematics | [portal](https://math.stackexchange.com/) | 数学知识的问答网站
+cross validated | [portal](https://stats.stackexchange.com/) | 亦是关于数学
+
 ### 概率论
 
 Title | Address | Replenish | Done
@@ -435,7 +444,7 @@ Title | Address | Replenish
 Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](https://www.guyuehome.com/34181) | frenet 坐标在规划方面的使用
 从欧拉角到旋转位移矩阵再到变换矩阵 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd) | 欧拉角变换的详细介绍，包括矩阵变换的公式和内旋外旋
 机器学习与优化基础（Machine Learning and Optimization）| [portal](https://zhuanlan.zhihu.com/p/169835477) | 常用的优化方法，虽然是机器学习，但其中的数学内容在自动驾驶中也会使用
-优秀计算机科学与技术领域相关的书籍归档 | [portal](https://github.com/sorooshrabet/Awesome-CS-Books-Iran/blob/master/README.md) | 几乎有各类的编程书籍，类似图书馆。有些貌似收费
+优秀计算机科学与技术领域相关的书籍归档 | [portal](https://github.com/sorooshrabet/Awesome-CS-Books-Iran/blob/master/README.md) | 几乎有各类的编程书籍，类似图书馆。有些貌似收费，而且大部分链接有些失效了 
 
 ---
 
