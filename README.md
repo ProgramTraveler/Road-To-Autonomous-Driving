@@ -302,6 +302,7 @@ Title | Address | Replenish
 :-: | :-: | :-:
 mathematics | [portal](https://math.stackexchange.com/) | 数学知识的问答网站
 cross validated | [portal](https://stats.stackexchange.com/) | 亦是关于数学
+about my math wiki | [portal](https://github.com/ProgramTraveler/github-wiki/tree/master/%E7%AD%91%E5%9F%BA%E6%9C%9F/%E6%95%B0%E5%AD%A6) | 这是我在阅读数学相关书籍时，记录的相关数学符号和名词的解释
 
 ### 概率论
 
