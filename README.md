@@ -43,7 +43,7 @@ Title | Address | Replenish
 无人驾驶技术系统 | [portal](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482) | 大部分是公式推导 有仿真的代码测试
 自动驾驶规划入门（已完结） | [portal](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) | 质量不知道怎么样（收费的）**感觉没必要** 里面的内容随便都能找到
 Apollo自动驾驶预测规划控制算法 | [portal](https://blog.csdn.net/qq_41667348/category_11789612.html) | Have read
-
+自动驾驶公司的论文推荐 | [portal](https://www.zhihu.com/column/c_1499358394104913920) | reading
 
 ---
 
@@ -468,3 +468,10 @@ c++ 手撕A\* 路径规划算法 | [portal](https://www.bilibili.com/video/BV1wj
 ## 筑基中期 2025.02-至今
   在实习的过程中，对规划的整体流程和一些编程特性习惯都有较大的理解，但是实习内容却和路径规划并没有太多的相关性，感觉是比较偏行为规划的。而且 c++ 的就业面又比较窄(貌似都是嵌入式、客户端、游戏这些)，为了防止出现失业就 G 的情况出现。还是需要补充路径规划的知识，主要是实战。ps，现在端到端很火，感兴趣的道友可以去学习，本人的精力和能力确实不支持去卷这个(笑哭)
 TODO list
+1. https://github.com/zhm-real/MotionPlanning
+2. https://github.com/ai-winter/ros_motion_planning
+3. https://github.com/gxf1002/ShenLanAcademy-PlanningControl
+4. https://github.com/yangmingustb/planning_books_1
+5. https://github.com/ZuzooVn/machine-learning-for-software-engineers
+6. https://github.com/LiJiangnanBit/path_optimizer
+7. https://github.com/jwasham/coding-interview-university
