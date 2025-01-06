@@ -36,6 +36,72 @@ Title | Address | Replenish | Done
 
 ---
 
+## 专栏
+
+Title | Address | Replenish
+:-: | :-: | :-:
+无人驾驶技术系统 | [portal](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482) | 大部分是公式推导 有仿真的代码测试
+自动驾驶规划入门（已完结） | [portal](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) | 质量不知道怎么样（收费的）**感觉没必要** 里面的内容随便都能找到
+Apollo自动驾驶预测规划控制算法 | [portal](https://blog.csdn.net/qq_41667348/category_11789612.html) | Have read
+
+
+---
+
+## 综述
+
+Title | Address | wiki
+:-: | :-: | :-:
+自动驾驶决策控制及运动规划最详细最接地气综述(2022年) | [portal](https://zhuanlan.zhihu.com/p/260707853) | [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
+综述-深度强化学习在自动驾驶中的应用 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) | Have read
+综述-城市道路自动驾驶车辆规划与控制技术 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) | 2016 年的一篇综述 其中内容包含较多 主要还是关注的规划部分 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E7%BB%BC%E8%BF%B0_%E5%9F%8E%E5%B8%82%E9%81%93%E8%B7%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E8%BE%86%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%8A%80%E6%9C%AF)
+何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述) | [portal](https://zhuanlan.zhihu.com/p/365881810) | [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
+最新综述 自动驾驶决策都有哪些数据集？一文尽览 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd) | Have read
+
+---
+
+## 友链
+
+* 这部分是我的列表中的道友，我觉得其中的部分对我来说可借鉴(排名不分先后)
+
+Address | Link | summary |Replenish
+:-: | :-: | :-: | :-:
+[@lucianzhong](https://github.com/lucianzhong)| https://github.com/lucianzhong/Apollo_learning | 关于 apollo 的模块笔记 |
+[@onlytaile](https://github.com/onlytailei) | https://github.com/onlytailei/CppRobotics | 自动驾驶中一些算法 | 
+[@qqfly](https://github.com/qqfly) | https://github.com/qqfly/how-to-learn-robotics | |
+
+---
+
+## 文章
+Title | Address | Replenish
+:-: | :-: | :-:
+万字聊聊百度Apollo自顶向下的自动驾驶之路 | [portal](https://zhuanlan.zhihu.com/p/587873388) | Have read
+汇总！自动驾驶路径规划中的障碍物处理方法总结 | [portal](https://zhuanlan.zhihu.com/p/635971229) | 相关文献中 障碍物约束处理的常用处理方法
+一文搞懂梯度下降 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd) | 怎么感觉是吴恩达老师的 PPT？
+三张图读懂机器学习：基本概念、五大流派与九种常见算法 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=2&sn=87afa8e60d542a874eb255b00504dff9&chksm=ceee912bf999183da1c1f5db17684e4c42eb9ca6c6597e1c10615470cf57ec349af106ec8066&scene=126&sessionid=1689670185#rd) | 就简单介绍了下基本概念 适用场景 公式、具体思想都没有
+图解 72 个机器学习基础知识点 | [portal](https://mp.weixin.qq.com/s/j3MMf-S-SqhqbJl3JnIxsg) | 算是对基本术语的解释
+深度学习神经网络基础知识总结 |[portal](https://mp.weixin.qq.com/s/NWuSgmdqsGYRve4WqhixTw) | 真.基础
+深度学习入门宝典：浅谈深度神经网络 | [portal](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd) | 简单解释如何创建网络以及 变量的含义
+马尔可夫链 小白都能看懂的马尔可夫链详解 | [portal](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ) | 简单了解概念还行 想懂还是去看书
+自动驾驶最新的技术栈有哪些？今天给大家盘点下 | [portal](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg) | 基础技术栈，本人仅关注规划方面 
+Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](https://www.guyuehome.com/34181) | frenet 坐标在规划方面的使用
+从欧拉角到旋转位移矩阵再到变换矩阵 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd) | 欧拉角变换的详细介绍，包括矩阵变换的公式和内旋外旋
+机器学习与优化基础（Machine Learning and Optimization）| [portal](https://zhuanlan.zhihu.com/p/169835477) | 常用的优化方法，虽然是机器学习，但其中的数学内容在自动驾驶中也会使用
+优秀计算机科学与技术领域相关的书籍归档 | [portal](https://github.com/sorooshrabet/Awesome-CS-Books-Iran/blob/master/README.md) | 几乎有各类的编程书籍，类似图书馆。有些貌似收费，而且大部分链接有些失效了 
+
+---
+
+## 待看
+
+* 一些文章或视频 还没来得及看 先记录在这里
+* [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
+* [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
+* [哎嗨人生，规控打工人](https://www.zhihu.com/people/gaows-75/posts?page=2)
+* [忠厚老实的老王](https://space.bilibili.com/287989852/video?tid=0&pn=3&keyword=&order=pubdate)
+* [c++那些事](https://github.com/Light-City/CPlusPlusThings)
+* [吾爱破解](https://www.52pojie.cn/)
+
+---
+
 ## 其他内容
 
 Title | Address
@@ -199,14 +265,6 @@ Title | Address | Replenish
 自动驾驶轨迹规划之 hybrid A\* 算法 | [portal](https://mp.weixin.qq.com/s/DqhotGszG-ayBUmc_dMo8Q) | [原文地址](https://blog.csdn.net/weixin_65089713/article/details/124060155)
 Hybrid A\* 原理与代码 | [portal](https://zhuanlan.zhihu.com/p/635971229) | 说的挺详细的 对参数和过程不熟悉的推荐看一下
 
-### 综述
-
-Title | Address | Wiki or Replenish
-:-: | :-: | :-:
-自动驾驶决策控制及运动规划最详细最接地气综述(2022年) | [portal](https://zhuanlan.zhihu.com/p/260707853) | [Wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%B3%E7%AD%96%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%BF%90%E5%8A%A8%E8%A7%84%E5%88%92%E7%BB%BC%E8%BF%B0(2022))
-综述-深度强化学习在自动驾驶中的应用 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247516587&idx=3&sn=17c18a4055b220ebc264ac80731dcfa9&chksm=ceb8ac62f9cf2574c678ad1a9ddd52b89f2b0bd7aaab46f7621aae68869d999e22efdea84d8b&scene=126&sessionid=1685619283#rd) | Have read
-综述-城市道路自动驾驶车辆规划与控制技术 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247526408&idx=2&sn=9a05116c4538a641872c965ab7b5a812&chksm=ceb845c1f9cfccd77bf6c1893776898bf483b7e07b40130d1671299ef3b86799e65c01caf1e9&scene=126&sessionid=1685619108#rd) | 2016 年的一篇综述 其中内容包含较多 主要还是关注的规划部分 [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E7%BB%BC%E8%BF%B0_%E5%9F%8E%E5%B8%82%E9%81%93%E8%B7%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E8%BE%86%E8%A7%84%E5%88%92%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%8A%80%E6%9C%AF)
-
 ### 车辆建模
 
 Title | Address | Replenish
@@ -241,7 +299,7 @@ Title | Address | Replenish
 :-: | :-: | :-:
 无人驾驶系列知识入门到提高 | [portal](https://www.bilibili.com/video/BV137411E7oC?p=10&vd_source=c68460d92fb2b166884357ad8c98de03) | 只看了 路径规划部分 内容比较基础(时间比较久了 质量也一般 感觉还是国外的好一点 2020年的) 有知识前提的观看更好一点 `up主`的主页有其他内容
 
-## 筑基期 2023-09 - 至今
+## 筑基前期 2023.09 - 2025.01
 
 > + 规划控制不分家
 > + 在对理论知识有一定了解后 就想再深入一下 就把 Apollo 的相关视频课看了一遍 顺便查漏补缺
@@ -396,21 +454,6 @@ Title | Address | Replenish
 【直播回放】2023星火培训PnC专项营第一讲：Planning 2.0综述 | [portal](https://www.bilibili.com/video/BV1Ah4y1k7rR/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=106&share_from=ugc&share_medium=android&share_plat=android&share_session_id=08339230-6249-4aa1-adfd-563a41cceba2&share_source=WEIXIN&share_tag=s_i&timestamp=1691682413&unique_k=IrMCKYv&up_id=631671239&vd_source=c68460d92fb2b166884357ad8c98de03) |简单介绍此次的更新内容和一些 very 基础的东西。以及环境安装流程
 【直播回放】2023星火培训PnC专项营第二讲：理解Planning 2.0 参数配置 | [portal](https://www.bilibili.com/video/BV1hX4y1j7Ar/?spm_id_from=top_right_bar_window_dynamic.content.click&vd_source=c68460d92fb2b166884357ad8c98de03) | ...
 
-### 专栏
-
-Title | Address | Replenish
-:-: | :-: | :-:
-无人驾驶技术系统 | [portal](https://blog.csdn.net/u013468614/category_9577860.html?spm=1001.2014.3001.5482) | 大部分是公式推导 有仿真的代码测试
-自动驾驶规划入门（已完结） | [portal](https://blog.csdn.net/u013468614/category_11897666.html?spm=1001.2014.3001.5482) | 质量不知道怎么样（收费的）**感觉没必要** 里面的内容随便都能找到
-Apollo自动驾驶预测规划控制算法 | [portal](https://blog.csdn.net/qq_41667348/category_11789612.html) | Have read
-
-### 综述
-
-Title | Address | wiki
-:-: | :-: | :-:
-何为轨迹预测？我们为什么需要轨迹预测？(自动驾驶轨迹预测-综述) | [portal](https://zhuanlan.zhihu.com/p/365881810) | [wiki笔记](https://github.com/ProgramTraveler/Road-To-Autonomous-Driving/wiki/%E4%BD%95%E4%B8%BA%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%EF%BC%9F(%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A8%E8%BF%B9%E9%A2%84%E6%B5%8B%E2%80%90%E7%BB%BC%E8%BF%B0))
-最新综述 自动驾驶决策都有哪些数据集？一文尽览 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg4NTQxMQ==&mid=2247496504&idx=1&sn=a7bc87db21e05b332cdfa377b7047d4c&chksm=cf4d6574f83aec62ee3fa4b78cb6d3a2776e392b0be2b7835f49cfa9de9b5e4779df9376af7f&scene=126&sessionid=1689646386#rd) | Have read
-
 ### 代码练习
 
 Title | Address | Replenish
@@ -420,42 +463,8 @@ c++ 手撕A\* 路径规划算法 | [portal](https://www.bilibili.com/video/BV1wj
 自动驾驶决策规划控制c++代码实现 | [portal](https://github.com/CHH3213/chhRobotics_CPP) | 配环境ing
 强化学习在MPC上的使用 | [portal](https://github.com/tud-amr/go-mpc) | [个人理解](https://github.com/ProgramTraveler/github-wiki/blob/master/%E7%AD%91%E5%9F%BA%E6%9C%9F/%E4%BB%A3%E7%A0%81/Go-MPC/%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95/%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95.pdf)
 
-### 友链
-
-* 这部分是我的列表中的道友，我觉得其中的部分对我来说可借鉴(排名不分先后)
-
-Address | Link | summary |Replenish
-:-: | :-: | :-: | :-:
-[@lucianzhong](https://github.com/lucianzhong)| https://github.com/lucianzhong/Apollo_learning | 关于 apollo 的模块笔记 |
-[@onlytaile](https://github.com/onlytailei) | https://github.com/onlytailei/CppRobotics | 自动驾驶中一些算法 | 
-[@qqfly](https://github.com/qqfly) | https://github.com/qqfly/how-to-learn-robotics | |
-### 文章
-
-Title | Address | Replenish
-:-: | :-: | :-:
-万字聊聊百度Apollo自顶向下的自动驾驶之路 | [portal](https://zhuanlan.zhihu.com/p/587873388) | Have read
-汇总！自动驾驶路径规划中的障碍物处理方法总结 | [portal](https://zhuanlan.zhihu.com/p/635971229) | 相关文献中 障碍物约束处理的常用处理方法
-一文搞懂梯度下降 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247579745&idx=1&sn=8341b972c8d3488c3852b5ebe5779b05&chksm=fbc9c105ccbe4813915e5abaae5fff5fa7dca691ea619e59d849ba32dd81221cc89e20fc34a9&scene=126&sessionid=1685620969#rd) | 怎么感觉是吴恩达老师的 PPT？
-三张图读懂机器学习：基本概念、五大流派与九种常见算法 | [portal](https://mp.weixin.qq.com/s?__biz=Mzg3MjY1MzExMA==&mid=2247506290&idx=2&sn=87afa8e60d542a874eb255b00504dff9&chksm=ceee912bf999183da1c1f5db17684e4c42eb9ca6c6597e1c10615470cf57ec349af106ec8066&scene=126&sessionid=1689670185#rd) | 就简单介绍了下基本概念 适用场景 公式、具体思想都没有
-图解 72 个机器学习基础知识点 | [portal](https://mp.weixin.qq.com/s/j3MMf-S-SqhqbJl3JnIxsg) | 算是对基本术语的解释
-深度学习神经网络基础知识总结 |[portal](https://mp.weixin.qq.com/s/NWuSgmdqsGYRve4WqhixTw) | 真.基础
-深度学习入门宝典：浅谈深度神经网络 | [portal](https://mp.weixin.qq.com/s?__biz=MzIwODI2NDkxNQ==&mid=2247510897&idx=1&sn=58f2dc5d5948c66a10665780b3444a81&chksm=970720cda070a9db8452eb6d32fb41a59e599b8d428745b94c4e0842b264b45470c9399fd275&scene=126&sessionid=1690435541#rd) | 简单解释如何创建网络以及 变量的含义
-马尔可夫链 小白都能看懂的马尔可夫链详解 | [portal](https://mp.weixin.qq.com/s/VCNKVeoHXQZaaUW7pl70cQ) | 简单了解概念还行 想懂还是去看书
-自动驾驶最新的技术栈有哪些？今天给大家盘点下 | [portal](https://mp.weixin.qq.com/s/jQsMoaNhjiLnSc_Hgaf9Jg) | 基础技术栈，本人仅关注规划方面 
-Frenet坐标系下的无人车轨迹规划详细讲解与ROS实现 | [portal](https://www.guyuehome.com/34181) | frenet 坐标在规划方面的使用
-从欧拉角到旋转位移矩阵再到变换矩阵 | [portal](https://mp.weixin.qq.com/s?__biz=MzU1NjEwMTY0Mw==&mid=2247552280&idx=2&sn=19b0caceb0278fa803bdf7cc4b1158d1&chksm=fbc8747cccbffd6a4f09b9ef39bf447a2acce509d31229d5c904a3f31902464776e4529e94d9&scene=126&sessionid=1685621729#rd) | 欧拉角变换的详细介绍，包括矩阵变换的公式和内旋外旋
-机器学习与优化基础（Machine Learning and Optimization）| [portal](https://zhuanlan.zhihu.com/p/169835477) | 常用的优化方法，虽然是机器学习，但其中的数学内容在自动驾驶中也会使用
-优秀计算机科学与技术领域相关的书籍归档 | [portal](https://github.com/sorooshrabet/Awesome-CS-Books-Iran/blob/master/README.md) | 几乎有各类的编程书籍，类似图书馆。有些貌似收费，而且大部分链接有些失效了 
-
 ---
 
-## 待看
-
-* 一些文章或视频 还没来得及看 先记录在这里
-* [CVPR2023 Nuplan自动驾驶轨迹规划比赛第二名方案详解](https://www.bilibili.com/video/BV1Qk4y1V7av/?buvid=XU058230ACE37A3A9500A39749582251BD773&is_story_h5=false&mid=jAQpmOC5Knl3UoDmHKlpcg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=af4f6b6d-75fb-4bd8-a1d8-ae5aac42a972&share_source=WEIXIN&share_tag=s_i&timestamp=1691680762&unique_k=IXtT2Y6&up_id=572748682&vd_source=c68460d92fb2b166884357ad8c98de03)
-* [超越UniAD！FusionAD：预测与规划任务的多模态融合方案](https://mp.weixin.qq.com/s/-IC9ZWRPUWB83Lj43YtQSw)
-* [哎嗨人生，规控打工人](https://www.zhihu.com/people/gaows-75/posts?page=2)
-* [忠厚老实的老王](https://space.bilibili.com/287989852/video?tid=0&pn=3&keyword=&order=pubdate)
-* [c++那些事](https://github.com/Light-City/CPlusPlusThings)
-* [吾爱破解](https://www.52pojie.cn/)
----
+## 筑基中期 2025.02-至今
+  在实习的过程中，对规划的整体流程和一些编程特性习惯都有较大的理解，但是实习内容却和路径规划并没有太多的相关性，感觉是比较偏行为规划的。而且 c++ 的就业面又比较窄(貌似都是嵌入式、客户端、游戏这些)，为了防止出现失业就 G 的情况出现。还是需要补充路径规划的知识，主要是实战。ps，现在端到端很火，感兴趣的道友可以去学习，本人的精力和能力确实不支持去卷这个(笑哭)
+TODO list
